@@ -19,15 +19,36 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Debug - List files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files in repo:"
+          ls -la
+          echo "Files in scripts:"
+          ls -la scripts/          
+
       - name: Generate Reddit feed
         run: |
           cd scripts
-          python3 reddit_digest_github.py          
+          python3 -u reddit_digest_github.py          
+        continue-on-error: true
+
+      - name: Check if feed was generated
+        run: |
+          if [ -f "feed-reddit.json" ]; then
+            echo "✅ Feed generated successfully"
+            ls -lh feed-reddit.json
+          else
+            echo "❌ Feed not generated"
+            ls -la
+          fi          
 
       - name: Commit and push feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-reddit.json state-reddit.json
+          git add -A
           git diff --cached --quiet || git commit -m "chore: update Reddit feed [skip ci]"
           git push          
+        continue-on-error: true
