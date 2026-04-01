@@ -8,14 +8,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,12 +24,32 @@ jobs:
           cd scripts
           python3 reddit_digest_github.py          
 
-      - name: Commit and push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload to GitHub
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-reddit.json state-reddit.json
-          git commit -m "chore: update Reddit feed $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push origin main      
+          python3 << 'PYEOF'
+          import json, base64, subprocess
+          
+          # Read feed
+          with open("feed-reddit.json", "r") as f:
+            content = f.read()
+          
+          # Get current SHA
+          result = subprocess.run([
+            "curl", "-s",
+            "https://api.github.com/repos/arthurfang0125-lgtm/reddit-digest/contents/feed-reddit.json",
+            "-H", "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
+          ], capture_output=True, text=True)
+          data = json.loads(result.stdout)
+          sha = data.get("sha", "")
+          
+          # Upload
+          encoded = base64.b64encode(content.encode()).decode()
+          result = subprocess.run([
+            "curl", "-s", "-X", "PUT",
+            "https://api.github.com/repos/arthurfang0125-lgtm/reddit-digest/contents/feed-reddit.json",
+            "-H", "Authorization: token ${{ secrets.GITHUB_TOKEN }}",
+            "-H", "Content-Type: application/json",
+            "-d", json.dumps({"message": "chore: update feed", "content": encoded, "sha": sha})
+          ], capture_output=True, text=True)
+          print(result.stdout[:200])
+          PYEOF          
