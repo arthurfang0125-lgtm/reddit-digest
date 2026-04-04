@@ -2,13 +2,15 @@ name: Generate Reddit Feed
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,36 +22,16 @@ jobs:
           python-version: '3.11'
 
       - name: Generate Reddit feed
-        run: |
-          cd scripts
-          python3 reddit_digest_github.py          
+        run: python3 -u scripts/reddit_digest_github.py
 
-      - name: Upload to GitHub
+      - name: Commit and push
         run: |
-          python3 << 'PYEOF'
-          import json, base64, subprocess
-          
-          # Read feed
-          with open("feed-reddit.json", "r") as f:
-            content = f.read()
-          
-          # Get current SHA
-          result = subprocess.run([
-            "curl", "-s",
-            "https://api.github.com/repos/arthurfang0125-lgtm/reddit-digest/contents/feed-reddit.json",
-            "-H", "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
-          ], capture_output=True, text=True)
-          data = json.loads(result.stdout)
-          sha = data.get("sha", "")
-          
-          # Upload
-          encoded = base64.b64encode(content.encode()).decode()
-          result = subprocess.run([
-            "curl", "-s", "-X", "PUT",
-            "https://api.github.com/repos/arthurfang0125-lgtm/reddit-digest/contents/feed-reddit.json",
-            "-H", "Authorization: token ${{ secrets.GITHUB_TOKEN }}",
-            "-H", "Content-Type: application/json",
-            "-d", json.dumps({"message": "chore: update feed", "content": encoded, "sha": sha})
-          ], capture_output=True, text=True)
-          print(result.stdout[:200])
-          PYEOF          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed-reddit.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update feed-reddit.json"
+            git push
+          fi          
