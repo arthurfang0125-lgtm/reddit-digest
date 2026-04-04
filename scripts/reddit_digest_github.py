@@ -124,8 +124,7 @@ def fetch_hot_posts(config):
 
 def main():
     print("🚀 开始抓取 Reddit 资讯...")
-
-config = load_config()
+    config = load_config()
     state = load_state()
     
     all_posts = fetch_hot_posts(config)
@@ -134,8 +133,7 @@ config = load_config()
         print("⚠️ 未获取到帖子")
         return
     
-    print(f"
-✅ 获取 {len(all_posts)} 条帖子")
+    print(f"\n✅ 获取 {len(all_posts)} 条帖子")
     
     # 过滤已见过的帖子
     unseen_posts = [p for p in all_posts if p['id'] not in state.get('seenPosts', {})]
@@ -145,8 +143,7 @@ config = load_config()
     top_posts = unseen_posts[:28] if unseen_posts else all_posts[:28]
     
     # 翻译标题
-    print("
-🌐 翻译标题...")
+    print("\n🌐 翻译标题...")
     translations = {}
     for post in top_posts:
         if post['title'] not in translations:
@@ -199,11 +196,11 @@ config = load_config()
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(feed, f, ensure_ascii=False, indent=2)
         
-        print(f"
-✅ Feed 已保存: {OUTPUT_FILE}")
+        print(f"\n✅ Feed 已保存: {OUTPUT_FILE}")
         print(f"   - 星级精选: {len(feed['starred'])} 条")
         print(f"   - 普通精选: {len(feed['regular'])} 条")
     except Exception as e:
         print(f"❌ 保存 Feed 失败: {e}")
+
 if __name__ == "__main__":
     main()
