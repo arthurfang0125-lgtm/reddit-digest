@@ -7,23 +7,35 @@ jobs:
   diagnose:
     runs-on: ubuntu-latest
     steps:
-      - name: Test Reddit HTTP
+      - name: Test Reddit without auth
         run: |
-          echo "=== Test 1: curl reddit.com ==="
-          curl -s -o /dev/null -w "HTTP %{http_code} | time %{time_total}s\n" --max-time 10 https://www.reddit.com || echo "FAILED"
-      
-      - name: Test Reddit API without auth
+          echo "=== Reddit main ==="
+          curl -s -o /dev/null -w "HTTP %{http_code}\n" --max-time 8 https://www.reddit.com || echo "TIMEOUT/FAILED"
+          
+          echo "=== Reddit API hot.json ==="
+          curl -s -w "\nHTTP:%{http_code}" --max-time 8 \
+            -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64)" \
+            "https://www.reddit.com/r/ChatGPT/hot.json?limit=3" | tail -2
+          
+      - name: Test Reddit with OAuth
         run: |
-          echo "=== Test 2: Reddit API hot.json ==="
-          RESP=$(curl -s -w "\nHTTP:%{http_code}" --max-time 10 \
-            -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" \
-            "https://www.reddit.com/r/ChatGPT/hot.json?limit=3")
-          echo "$RESP" | head -3
-          HTTP_CODE=$(echo "$RESP" | tail -1 | cut -d: -f2)
-          echo "HTTP_CODE=$HTTP_CODE"
-          if [ "$HTTP_CODE" = "200" ]; then
-            echo "✅ Reddit accessible!"
-          else
-            echo "❌ Reddit NOT accessible (code: $HTTP_CODE)"
-          fi
+          echo "=== Reddit OAuth ==="
+          # 使用 config.json 中的占位凭证测试（会失败，但能看到错误类型）
+          RESP=$(curl -s -w "\nHTTP:%{http_code}" --max-time 8 \
+            -X POST "https://www.reddit.com/api/v1/access_token" \
+            -H "Authorization: Basic bmV3OnxuZXc=" \
+            -d "grant_type=client_credentials")
+          echo "$RESP"
 
+      - name: Test PRAW sample
+        run: |
+          echo "=== Install PRAW ==="
+          pip install praw 2>&1 | tail -3
+          echo "=== Test PRAW (no auth - expect error) ==="
+          python3 -c "import praw; r=praw.Reddit(client_id='placeholder', client_secret='placeholder', user_agent='test'); print(r.read_only)" 2>&1 || echo "Expected auth failure"
+
+      - name: Check available proxy
+        run: |
+          echo "=== Check proxy config ==="
+          # 青果代理测试地址
+          curl -s -o /dev/null -w "HTTP %{http_code} | time %{time_total}s\n" --max-time 5 http://proxy.qinggua.cn:808 || echo "No direct proxy"
