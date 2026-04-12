@@ -1,231 +1,356 @@
 {
-  "generated_at": "2026-04-12T17:13:59.980777",
+  "generated_at": "2026-04-12T17:15:35.682553",
   "github_trending": [
     {
-      "name": "amya2jkzsmirnov/Exodus-Fake-Balance",
-      "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering",
-      "stars": 63,
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 115695,
       "language": "Python",
-      "url": "https://github.com/amya2jkzsmirnov/Exodus-Fake-Balance"
+      "url": "https://github.com/anthropics/skills"
     },
     {
-      "name": "Johnson76705Johnson7670516/Flash-USDT-Tool",
-      "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
-      "stars": 62,
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 87284,
       "language": "Python",
-      "url": "https://github.com/Johnson76705Johnson7670516/Flash-USDT-Tool"
+      "url": "https://github.com/github/spec-kit"
     },
     {
-      "name": "0xzkslr-ai/hotmail_register",
-      "description": "hotmail register",
-      "stars": 35,
+      "name": "karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 70876,
       "language": "Python",
-      "url": "https://github.com/0xzkslr-ai/hotmail_register"
+      "url": "https://github.com/karpathy/autoresearch"
     },
     {
-      "name": "terancejiang/financial-report-minesweeper",
-      "description": "财报排雷工具 - A-share financial report fraud/risk detection based on Tang Chao's methodology. Claude Code Skill with 28-rule checklist.",
-      "stars": 17,
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 65065,
       "language": "Python",
-      "url": "https://github.com/terancejiang/financial-report-minesweeper"
+      "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "name": "keezxc1223/locwarp",
-      "description": "",
-      "stars": 16,
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+      "stars": 63541,
       "language": "Python",
-      "url": "https://github.com/keezxc1223/locwarp"
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
-      "name": "zakirkun/pentest-assists-ai",
-      "description": "Demo tools for webinar merdekasiber.com",
-      "stars": 14,
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 60734,
       "language": "Python",
-      "url": "https://github.com/zakirkun/pentest-assists-ai"
+      "url": "https://github.com/bytedance/deer-flow"
     },
     {
-      "name": "SuyashEkhande/OpenFDA-Semantic-MCP",
-      "description": "A production-grade, AI-native Model Context Protocol (MCP) server providing LLMs with comprehensive, intent-driven access to the entire openFDA API Ecosystem.",
-      "stars": 10,
+      "name": "FoundationAgents/OpenManus",
+      "description": "No fortress, purely open ground.  OpenManus is Coming.",
+      "stars": 55715,
       "language": "Python",
-      "url": "https://github.com/SuyashEkhande/OpenFDA-Semantic-MCP"
+      "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
-      "name": "calico-team/calico-sp26-public",
-      "description": "All contest materials for CALICO Spring '26, including solutions, editorials, tests, templates, and problem statements.",
-      "stars": 9,
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 54058,
       "language": "Python",
-      "url": "https://github.com/calico-team/calico-sp26-public"
+      "url": "https://github.com/666ghj/MiroFish"
     },
     {
-      "name": "netkr/mini-hids",
-      "description": "轻量级主机入侵检测与日志分析系统，支持大模型 AI 智能分析。/ A lightweight HIDS for Linux, featuring AI-powered log analysis and automated defense.",
-      "stars": 8,
+      "name": "Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "stars": 53710,
       "language": "Python",
-      "url": "https://github.com/netkr/mini-hids"
+      "url": "https://github.com/Zie619/n8n-workflows"
     },
     {
-      "name": "dinosn/cluster-bus-takeover",
-      "description": "Redis Cluster Bus Full Takeover — Lab & PoC",
-      "stars": 6,
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 53199,
       "language": "Python",
-      "url": "https://github.com/dinosn/cluster-bus-takeover"
-    },
-    {
-      "name": "ankitdotgg/making-gemini-useful-with-claude",
-      "description": "Use Gemini (1M context, free) inside Claude Desktop and Claude Code. MCP bridge that delegates heavy tasks to Gemini CLI while Claude orchestrates.",
-      "stars": 7,
-      "language": "Python",
-      "url": "https://github.com/ankitdotgg/making-gemini-useful-with-claude"
-    },
-    {
-      "name": "HelioASjunior/underworld-hero-survivor",
-      "description": "A dark fantasy bullet-heaven roguelike where you survive relentless hordes in a retro pixel-art underworld",
-      "stars": 5,
-      "language": "Python",
-      "url": "https://github.com/HelioASjunior/underworld-hero-survivor"
-    },
-    {
-      "name": "cv-cat/TiktokApis",
-      "description": "Tiktok 算法逆向",
-      "stars": 5,
-      "language": "Python",
-      "url": "https://github.com/cv-cat/TiktokApis"
-    },
-    {
-      "name": "vajju2008/Insecure-Direct-Object-Reference-IDOR-",
-      "description": "A vulnerability where an application exposes internal objects (like database records, files, or user IDs) directly in the URL or request parameters without proper access control.",
-      "stars": 5,
-      "language": "Python",
-      "url": "https://github.com/vajju2008/Insecure-Direct-Object-Reference-IDOR-"
-    },
-    {
-      "name": "zkjisj/luoke_location",
-      "description": "洛克王国地图定位工具，用于跑图采集材料时进行更大视角的显示，便于判断方位和材料采集点。",
-      "stars": 5,
-      "language": "Python",
-      "url": "https://github.com/zkjisj/luoke_location"
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
   ],
-  "hackernews": [
-    {
-      "title": "EasyPost (YC S13) Is Hiring",
-      "url": "https://www.easypost.com/careers",
-      "points": 0,
-      "comments": 0,
-      "author": "jstreebin"
-    },
-    {
-      "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-      "url": "https://eualternative.eu/guides/building-saas-eu-stack/",
-      "points": 64,
-      "comments": 12,
-      "author": "sparkling"
-    },
-    {
-      "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
-      "url": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
-      "points": 24,
-      "comments": 18,
-      "author": "wallflower"
-    },
-    {
-      "title": "Seven countries now generate 100% of their electricity from renewable energy",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "points": 239,
-      "comments": 98,
-      "author": "mpweiher"
-    },
-    {
-      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "points": 443,
-      "comments": 404,
-      "author": "cmaster11"
-    },
-    {
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "points": 82,
-      "comments": 9,
-      "author": "Rochus"
-    },
-    {
-      "title": "We have a 99% email reputation. Gmail disagrees",
-      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "points": 129,
-      "comments": 118,
-      "author": "em-bee"
-    },
-    {
-      "title": "Bring Back Idiomatic Design",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "points": 169,
-      "comments": 88,
-      "author": "phil294"
-    },
-    {
-      "title": "Internet outage in Iran reaches 1,008 hours",
-      "url": "https://mastodon.social/@netblocks/116384935123261912",
-      "points": 106,
-      "comments": 71,
-      "author": "miadabdi"
-    },
-    {
-      "title": "The Physics of GPS",
-      "url": "https://perthirtysix.com/how-does-gps-work",
-      "points": 51,
-      "comments": 9,
-      "author": "maouida"
-    },
-    {
-      "title": "JVM Options Explorer",
-      "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "points": 123,
-      "comments": 58,
-      "author": "0x54MUR41"
-    },
-    {
-      "title": "Doom, Played over Curl",
-      "url": "https://github.com/xsawyerx/curl-doom",
-      "points": 51,
-      "comments": 5,
-      "author": "creaktive"
-    },
-    {
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "points": 282,
-      "comments": 469,
-      "author": "gHeadphone"
-    },
-    {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "points": 599,
-      "comments": 347,
-      "author": "tradertef"
-    },
-    {
-      "title": "Anthropic downgraded cache TTL on March 6th",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
-      "points": 303,
-      "comments": 218,
-      "author": "lsdmtme"
-    },
-    {
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "points": 245,
-      "comments": 132,
-      "author": "iliatoli"
-    },
-    {
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
-      "points": 227,
-      "comments": 30,
-      "author": "evo_9"
-    }
-  ]
+  "hackernews": {
+    "starred": [
+      {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "points": 1191,
+        "comments": 318,
+        "author": "dominicq"
+      },
+      {
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "points": 601,
+        "comments": 348,
+        "author": "tradertef"
+      },
+      {
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "points": 458,
+        "comments": 111,
+        "author": "Anon84"
+      },
+      {
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "points": 448,
+        "comments": 405,
+        "author": "cmaster11"
+      },
+      {
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "points": 304,
+        "comments": 222,
+        "author": "lsdmtme"
+      }
+    ],
+    "top": [
+      {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "points": 1191,
+        "comments": 318,
+        "author": "dominicq"
+      },
+      {
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "points": 601,
+        "comments": 348,
+        "author": "tradertef"
+      },
+      {
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "points": 458,
+        "comments": 111,
+        "author": "Anon84"
+      },
+      {
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "points": 448,
+        "comments": 405,
+        "author": "cmaster11"
+      },
+      {
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "points": 304,
+        "comments": 222,
+        "author": "lsdmtme"
+      },
+      {
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "points": 289,
+        "comments": 480,
+        "author": "gHeadphone"
+      },
+      {
+        "title": "Seven countries now generate 100% of their electricity from renewable energy",
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "points": 249,
+        "comments": 100,
+        "author": "mpweiher"
+      },
+      {
+        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+        "url": "https://zenodo.org/records/19513269",
+        "points": 245,
+        "comments": 132,
+        "author": "iliatoli"
+      },
+      {
+        "title": "Dark Castle",
+        "url": "https://darkcastle.co.uk/",
+        "points": 227,
+        "comments": 30,
+        "author": "evo_9"
+      },
+      {
+        "title": "Bring Back Idiomatic Design",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "points": 174,
+        "comments": 91,
+        "author": "phil294"
+      }
+    ],
+    "all": [
+      {
+        "title": "Small models also found the vulnerabilities that Mythos found",
+        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+        "points": 1191,
+        "comments": 318,
+        "author": "dominicq"
+      },
+      {
+        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+        "points": 601,
+        "comments": 348,
+        "author": "tradertef"
+      },
+      {
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "points": 458,
+        "comments": 111,
+        "author": "Anon84"
+      },
+      {
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "points": 448,
+        "comments": 405,
+        "author": "cmaster11"
+      },
+      {
+        "title": "Anthropic downgraded cache TTL on March 6th",
+        "url": "https://github.com/anthropics/claude-code/issues/46829",
+        "points": 304,
+        "comments": 222,
+        "author": "lsdmtme"
+      },
+      {
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "points": 289,
+        "comments": 480,
+        "author": "gHeadphone"
+      },
+      {
+        "title": "Seven countries now generate 100% of their electricity from renewable energy",
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "points": 249,
+        "comments": 100,
+        "author": "mpweiher"
+      },
+      {
+        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+        "url": "https://zenodo.org/records/19513269",
+        "points": 245,
+        "comments": 132,
+        "author": "iliatoli"
+      },
+      {
+        "title": "Dark Castle",
+        "url": "https://darkcastle.co.uk/",
+        "points": 227,
+        "comments": 30,
+        "author": "evo_9"
+      },
+      {
+        "title": "Bring Back Idiomatic Design",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "points": 174,
+        "comments": 91,
+        "author": "phil294"
+      },
+      {
+        "title": "We have a 99% email reputation. Gmail disagrees",
+        "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "points": 131,
+        "comments": 119,
+        "author": "em-bee"
+      },
+      {
+        "title": "Happy Map",
+        "url": "https://pudding.cool/2026/02/happy-map/",
+        "points": 126,
+        "comments": 19,
+        "author": "surprisetalk"
+      },
+      {
+        "title": "JVM Options Explorer",
+        "url": "https://chriswhocodes.com/vm-options-explorer.html",
+        "points": 123,
+        "comments": 58,
+        "author": "0x54MUR41"
+      },
+      {
+        "title": "Internet outage in Iran reaches 1,008 hours",
+        "url": "https://mastodon.social/@netblocks/116384935123261912",
+        "points": 108,
+        "comments": 73,
+        "author": "miadabdi"
+      },
+      {
+        "title": "An Interview with Pat Gelsinger",
+        "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+        "points": 88,
+        "comments": 54,
+        "author": "zdw"
+      },
+      {
+        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+        "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "points": 85,
+        "comments": 9,
+        "author": "Rochus"
+      },
+      {
+        "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+        "url": "https://eualternative.eu/guides/building-saas-eu-stack/",
+        "points": 78,
+        "comments": 15,
+        "author": "sparkling"
+      },
+      {
+        "title": "A Tour of Oodi",
+        "url": "https://blinry.org/oodi/",
+        "points": 60,
+        "comments": 19,
+        "author": "zdw"
+      },
+      {
+        "title": "The Physics of GPS",
+        "url": "https://perthirtysix.com/how-does-gps-work",
+        "points": 51,
+        "comments": 9,
+        "author": "maouida"
+      },
+      {
+        "title": "Doom, Played over Curl",
+        "url": "https://github.com/xsawyerx/curl-doom",
+        "points": 51,
+        "comments": 5,
+        "author": "creaktive"
+      },
+      {
+        "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
+        "url": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
+        "points": 26,
+        "comments": 18,
+        "author": "wallflower"
+      },
+      {
+        "title": "I gave every train in New York an instrument",
+        "url": "https://www.trainjazz.com/",
+        "points": 21,
+        "comments": 3,
+        "author": "joshuawolk"
+      },
+      {
+        "title": "Metrics SQL: A SQL-based semantic layer for humans and agents",
+        "url": "https://www.rilldata.com/blog/introducing-metrics-sql-a-sql-based-semantic-layer-for-humans-and-agents",
+        "points": 14,
+        "comments": 0,
+        "author": "sebg"
+      },
+      {
+        "title": "Compute iOS XNU offset from kernel cache",
+        "url": "https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches",
+        "points": 10,
+        "comments": 0,
+        "author": "tonygo"
+      }
+    ]
+  }
 }
