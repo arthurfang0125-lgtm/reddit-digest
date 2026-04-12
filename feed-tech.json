@@ -1,0 +1,231 @@
+{
+  "generated_at": "2026-04-12T17:13:59.980777",
+  "github_trending": [
+    {
+      "name": "amya2jkzsmirnov/Exodus-Fake-Balance",
+      "description": "Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-safe display rendering",
+      "stars": 63,
+      "language": "Python",
+      "url": "https://github.com/amya2jkzsmirnov/Exodus-Fake-Balance"
+    },
+    {
+      "name": "Johnson76705Johnson7670516/Flash-USDT-Tool",
+      "description": "Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations",
+      "stars": 62,
+      "language": "Python",
+      "url": "https://github.com/Johnson76705Johnson7670516/Flash-USDT-Tool"
+    },
+    {
+      "name": "0xzkslr-ai/hotmail_register",
+      "description": "hotmail register",
+      "stars": 35,
+      "language": "Python",
+      "url": "https://github.com/0xzkslr-ai/hotmail_register"
+    },
+    {
+      "name": "terancejiang/financial-report-minesweeper",
+      "description": "财报排雷工具 - A-share financial report fraud/risk detection based on Tang Chao's methodology. Claude Code Skill with 28-rule checklist.",
+      "stars": 17,
+      "language": "Python",
+      "url": "https://github.com/terancejiang/financial-report-minesweeper"
+    },
+    {
+      "name": "keezxc1223/locwarp",
+      "description": "",
+      "stars": 16,
+      "language": "Python",
+      "url": "https://github.com/keezxc1223/locwarp"
+    },
+    {
+      "name": "zakirkun/pentest-assists-ai",
+      "description": "Demo tools for webinar merdekasiber.com",
+      "stars": 14,
+      "language": "Python",
+      "url": "https://github.com/zakirkun/pentest-assists-ai"
+    },
+    {
+      "name": "SuyashEkhande/OpenFDA-Semantic-MCP",
+      "description": "A production-grade, AI-native Model Context Protocol (MCP) server providing LLMs with comprehensive, intent-driven access to the entire openFDA API Ecosystem.",
+      "stars": 10,
+      "language": "Python",
+      "url": "https://github.com/SuyashEkhande/OpenFDA-Semantic-MCP"
+    },
+    {
+      "name": "calico-team/calico-sp26-public",
+      "description": "All contest materials for CALICO Spring '26, including solutions, editorials, tests, templates, and problem statements.",
+      "stars": 9,
+      "language": "Python",
+      "url": "https://github.com/calico-team/calico-sp26-public"
+    },
+    {
+      "name": "netkr/mini-hids",
+      "description": "轻量级主机入侵检测与日志分析系统，支持大模型 AI 智能分析。/ A lightweight HIDS for Linux, featuring AI-powered log analysis and automated defense.",
+      "stars": 8,
+      "language": "Python",
+      "url": "https://github.com/netkr/mini-hids"
+    },
+    {
+      "name": "dinosn/cluster-bus-takeover",
+      "description": "Redis Cluster Bus Full Takeover — Lab & PoC",
+      "stars": 6,
+      "language": "Python",
+      "url": "https://github.com/dinosn/cluster-bus-takeover"
+    },
+    {
+      "name": "ankitdotgg/making-gemini-useful-with-claude",
+      "description": "Use Gemini (1M context, free) inside Claude Desktop and Claude Code. MCP bridge that delegates heavy tasks to Gemini CLI while Claude orchestrates.",
+      "stars": 7,
+      "language": "Python",
+      "url": "https://github.com/ankitdotgg/making-gemini-useful-with-claude"
+    },
+    {
+      "name": "HelioASjunior/underworld-hero-survivor",
+      "description": "A dark fantasy bullet-heaven roguelike where you survive relentless hordes in a retro pixel-art underworld",
+      "stars": 5,
+      "language": "Python",
+      "url": "https://github.com/HelioASjunior/underworld-hero-survivor"
+    },
+    {
+      "name": "cv-cat/TiktokApis",
+      "description": "Tiktok 算法逆向",
+      "stars": 5,
+      "language": "Python",
+      "url": "https://github.com/cv-cat/TiktokApis"
+    },
+    {
+      "name": "vajju2008/Insecure-Direct-Object-Reference-IDOR-",
+      "description": "A vulnerability where an application exposes internal objects (like database records, files, or user IDs) directly in the URL or request parameters without proper access control.",
+      "stars": 5,
+      "language": "Python",
+      "url": "https://github.com/vajju2008/Insecure-Direct-Object-Reference-IDOR-"
+    },
+    {
+      "name": "zkjisj/luoke_location",
+      "description": "洛克王国地图定位工具，用于跑图采集材料时进行更大视角的显示，便于判断方位和材料采集点。",
+      "stars": 5,
+      "language": "Python",
+      "url": "https://github.com/zkjisj/luoke_location"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "EasyPost (YC S13) Is Hiring",
+      "url": "https://www.easypost.com/careers",
+      "points": 0,
+      "comments": 0,
+      "author": "jstreebin"
+    },
+    {
+      "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
+      "url": "https://eualternative.eu/guides/building-saas-eu-stack/",
+      "points": 64,
+      "comments": 12,
+      "author": "sparkling"
+    },
+    {
+      "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
+      "url": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
+      "points": 24,
+      "comments": 18,
+      "author": "wallflower"
+    },
+    {
+      "title": "Seven countries now generate 100% of their electricity from renewable energy",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "points": 239,
+      "comments": 98,
+      "author": "mpweiher"
+    },
+    {
+      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "url": "https://github.com/anthropics/claude-code/issues/45756",
+      "points": 443,
+      "comments": 404,
+      "author": "cmaster11"
+    },
+    {
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "points": 82,
+      "comments": 9,
+      "author": "Rochus"
+    },
+    {
+      "title": "We have a 99% email reputation. Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "points": 129,
+      "comments": 118,
+      "author": "em-bee"
+    },
+    {
+      "title": "Bring Back Idiomatic Design",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "points": 169,
+      "comments": 88,
+      "author": "phil294"
+    },
+    {
+      "title": "Internet outage in Iran reaches 1,008 hours",
+      "url": "https://mastodon.social/@netblocks/116384935123261912",
+      "points": 106,
+      "comments": 71,
+      "author": "miadabdi"
+    },
+    {
+      "title": "The Physics of GPS",
+      "url": "https://perthirtysix.com/how-does-gps-work",
+      "points": 51,
+      "comments": 9,
+      "author": "maouida"
+    },
+    {
+      "title": "JVM Options Explorer",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "points": 123,
+      "comments": 58,
+      "author": "0x54MUR41"
+    },
+    {
+      "title": "Doom, Played over Curl",
+      "url": "https://github.com/xsawyerx/curl-doom",
+      "points": 51,
+      "comments": 5,
+      "author": "creaktive"
+    },
+    {
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "points": 282,
+      "comments": 469,
+      "author": "gHeadphone"
+    },
+    {
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "points": 599,
+      "comments": 347,
+      "author": "tradertef"
+    },
+    {
+      "title": "Anthropic downgraded cache TTL on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "points": 303,
+      "comments": 218,
+      "author": "lsdmtme"
+    },
+    {
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "points": 245,
+      "comments": 132,
+      "author": "iliatoli"
+    },
+    {
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "points": 227,
+      "comments": 30,
+      "author": "evo_9"
+    }
+  ]
+}
