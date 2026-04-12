@@ -1,0 +1,29 @@
+name: Diagnose Reddit Connectivity
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Reddit HTTP
+        run: |
+          echo "=== Test 1: curl reddit.com ==="
+          curl -s -o /dev/null -w "HTTP %{http_code} | time %{time_total}s\n" --max-time 10 https://www.reddit.com || echo "FAILED"
+      
+      - name: Test Reddit API without auth
+        run: |
+          echo "=== Test 2: Reddit API hot.json ==="
+          RESP=$(curl -s -w "\nHTTP:%{http_code}" --max-time 10 \
+            -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" \
+            "https://www.reddit.com/r/ChatGPT/hot.json?limit=3")
+          echo "$RESP" | head -3
+          HTTP_CODE=$(echo "$RESP" | tail -1 | cut -d: -f2)
+          echo "HTTP_CODE=$HTTP_CODE"
+          if [ "$HTTP_CODE" = "200" ]; then
+            echo "✅ Reddit accessible!"
+          else
+            echo "❌ Reddit NOT accessible (code: $HTTP_CODE)"
+          fi
+
