@@ -1,0 +1,35 @@
+name: Hacker News Daily Digest
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 10:00 UTC+8
+  workflow_dispatch:
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch HN Data
+        run: python scripts/fetch_hn.py
+
+      - name: Commit and Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add feed-hn.json
+          git diff --cached --quiet || git commit -m "Update HN digest: $(date -u +%Y-%m-%d)"
+          git push
