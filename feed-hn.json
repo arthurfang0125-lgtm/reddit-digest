@@ -1,0 +1,247 @@
+{
+  "generated_at": "2026-04-12T11:56:01.778495",
+  "starred": [
+    {
+      "objectID": "47724352",
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "points": 1334,
+      "num_comments": 632,
+      "author": "normanvalentine"
+    },
+    {
+      "objectID": "47732020",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "points": 1129,
+      "num_comments": 302,
+      "author": "dominicq"
+    },
+    {
+      "objectID": "47719740",
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "points": 966,
+      "num_comments": 166,
+      "author": "burnt-resistor"
+    },
+    {
+      "objectID": "47728653",
+      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
+      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
+      "points": 458,
+      "num_comments": 255,
+      "author": "pabs3"
+    },
+    {
+      "objectID": "47698455",
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "url": "https://playstarfling.com",
+      "points": 595,
+      "num_comments": 148,
+      "author": "iceberger2001"
+    },
+    {
+      "objectID": "47727960",
+      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "points": 440,
+      "num_comments": 241,
+      "author": "vidluther"
+    },
+    {
+      "objectID": "47736555",
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "points": 297,
+      "num_comments": 208,
+      "author": "tradertef"
+    }
+  ],
+  "regular": [
+    {
+      "objectID": "47733217",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "points": 401,
+      "num_comments": 99,
+      "author": "Anon84"
+    },
+    {
+      "objectID": "47730407",
+      "title": "South Korea introduces universal basic mobile data access",
+      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
+      "points": 386,
+      "num_comments": 111,
+      "author": "saikatsg"
+    },
+    {
+      "objectID": "47730194",
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "points": 268,
+      "num_comments": 129,
+      "author": "seekdeep"
+    },
+    {
+      "objectID": "47730981",
+      "title": "The future of everything is lies, I guess \u2013 Part 5: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "points": 260,
+      "num_comments": 149,
+      "author": "aphyr"
+    },
+    {
+      "objectID": "47694064",
+      "title": "Every plane you see in the sky \u2013 you can now follow it from the cockpit in 3D",
+      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
+      "points": 346,
+      "num_comments": 64,
+      "author": "coolwulf"
+    },
+    {
+      "objectID": "47733971",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "points": 206,
+      "num_comments": 143,
+      "author": "krackers"
+    },
+    {
+      "objectID": "47736298",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "points": 184,
+      "num_comments": 156,
+      "author": "Jimmc414"
+    },
+    {
+      "objectID": "47733561",
+      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "points": 222,
+      "num_comments": 118,
+      "author": "iliatoli"
+    },
+    {
+      "objectID": "47735535",
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "points": 176,
+      "num_comments": 129,
+      "author": "ValentineC"
+    },
+    {
+      "objectID": "47695213",
+      "title": "Optimal Strategy for Connect 4",
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "points": 297,
+      "num_comments": 32,
+      "author": "marvinborner"
+    },
+    {
+      "objectID": "47731506",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "points": 248,
+      "num_comments": 62,
+      "author": "zdw"
+    },
+    {
+      "objectID": "47693559",
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "points": 220,
+      "num_comments": 71,
+      "author": "codetheweb"
+    },
+    {
+      "objectID": "47737383",
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
+      "points": 181,
+      "num_comments": 87,
+      "author": "OuterVale"
+    },
+    {
+      "objectID": "47736476",
+      "title": "Anthropic silently downgraded cache TTL from 1h \u2192 5M on March 6th",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "points": 124,
+      "num_comments": 103,
+      "author": "lsdmtme"
+    },
+    {
+      "objectID": "47702890",
+      "title": "How Passive Radar Works",
+      "url": "https://www.passiveradar.com/how-passive-radar-works/",
+      "points": 177,
+      "num_comments": 53,
+      "author": "surprisetalk"
+    },
+    {
+      "objectID": "47733521",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "points": 195,
+      "num_comments": 24,
+      "author": "evo_9"
+    },
+    {
+      "objectID": "47727659",
+      "title": "Productive Procrastination",
+      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
+      "points": 146,
+      "num_comments": 49,
+      "author": "maxvij"
+    },
+    {
+      "objectID": "47730712",
+      "title": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "points": 136,
+      "num_comments": 44,
+      "author": "ShaggyHotDog"
+    },
+    {
+      "objectID": "47672941",
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "points": 163,
+      "num_comments": 24,
+      "author": "kouosi"
+    },
+    {
+      "objectID": "47673171",
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "points": 133,
+      "num_comments": 33,
+      "author": "speckx"
+    },
+    {
+      "objectID": "47732697",
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "points": 120,
+      "num_comments": 12,
+      "author": "zdw"
+    },
+    {
+      "objectID": "47731838",
+      "title": "Keeping a Postgres Queue Healthy",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "points": 99,
+      "num_comments": 25,
+      "author": "tanelpoder"
+    },
+    {
+      "objectID": "47729634",
+      "title": "Now is the best time to write code by hand",
+      "url": "https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/",
+      "points": 79,
+      "num_comments": 35,
+      "author": "nickgreg"
+    }
+  ]
+}
