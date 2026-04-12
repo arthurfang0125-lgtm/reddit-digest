@@ -1,0 +1,32 @@
+name: Tech News Digest
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 每天 11:00 北京时间
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/tech-trending.py
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch Tech News
+        run: python3 scripts/tech-trending.py
+
+      - name: Upload feed
+        run: |
+          git config user.name "QClaw Bot"
+          git config user.email "bot@qclaw.ai"
+          git add feed-tech.json
+          git commit -m "Update feed-tech $(date +%Y-%m-%d)"
+          git push origin main
