@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-12T17:15:35.682553",
+  "generated_at": "2026-04-13T05:34:47.756571",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 115695,
+      "stars": 116028,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 87284,
+      "stars": 87408,
       "language": "Python",
       "url": "https://github.com/github/spec-kit"
     },
     {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 70876,
+      "stars": 71133,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 65065,
+      "stars": 70005,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 63541,
+      "stars": 63855,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 60734,
+      "stars": 60892,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55715,
+      "stars": 55721,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 54058,
+      "stars": 54294,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53710,
+      "stars": 53716,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 53199,
+      "stars": 53337,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
@@ -75,281 +75,274 @@
   "hackernews": {
     "starred": [
       {
-        "title": "Small models also found the vulnerabilities that Mythos found",
-        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "points": 1191,
-        "comments": 318,
-        "author": "dominicq"
-      },
-      {
-        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-        "points": 601,
-        "comments": 348,
-        "author": "tradertef"
-      },
-      {
-        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-        "points": 458,
-        "comments": 111,
-        "author": "Anon84"
-      },
-      {
         "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
         "url": "https://github.com/anthropics/claude-code/issues/45756",
-        "points": 448,
-        "comments": 405,
+        "points": 574,
+        "comments": 524,
         "author": "cmaster11"
       },
       {
-        "title": "Anthropic downgraded cache TTL on March 6th",
-        "url": "https://github.com/anthropics/claude-code/issues/46829",
-        "points": 304,
-        "comments": 222,
-        "author": "lsdmtme"
+        "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "points": 542,
+        "comments": 282,
+        "author": "mpweiher"
+      },
+      {
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "points": 504,
+        "comments": 130,
+        "author": "Anon84"
+      },
+      {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "points": 502,
+        "comments": 266,
+        "author": "phil294"
+      },
+      {
+        "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+        "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+        "points": 374,
+        "comments": 183,
+        "author": "super256"
       }
     ],
     "top": [
       {
-        "title": "Small models also found the vulnerabilities that Mythos found",
-        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "points": 1191,
-        "comments": 318,
-        "author": "dominicq"
-      },
-      {
-        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-        "points": 601,
-        "comments": 348,
-        "author": "tradertef"
-      },
-      {
-        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-        "points": 458,
-        "comments": 111,
-        "author": "Anon84"
-      },
-      {
         "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
         "url": "https://github.com/anthropics/claude-code/issues/45756",
-        "points": 448,
-        "comments": 405,
+        "points": 574,
+        "comments": 524,
         "author": "cmaster11"
       },
       {
-        "title": "Anthropic downgraded cache TTL on March 6th",
-        "url": "https://github.com/anthropics/claude-code/issues/46829",
-        "points": 304,
-        "comments": 222,
-        "author": "lsdmtme"
-      },
-      {
-        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-        "points": 289,
-        "comments": 480,
-        "author": "gHeadphone"
-      },
-      {
-        "title": "Seven countries now generate 100% of their electricity from renewable energy",
+        "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
         "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-        "points": 249,
-        "comments": 100,
+        "points": 542,
+        "comments": 282,
         "author": "mpweiher"
       },
       {
-        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-        "url": "https://zenodo.org/records/19513269",
-        "points": 245,
-        "comments": 132,
-        "author": "iliatoli"
-      },
-      {
-        "title": "Dark Castle",
-        "url": "https://darkcastle.co.uk/",
-        "points": 227,
-        "comments": 30,
-        "author": "evo_9"
-      },
-      {
-        "title": "Bring Back Idiomatic Design",
-        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-        "points": 174,
-        "comments": 91,
-        "author": "phil294"
-      }
-    ],
-    "all": [
-      {
-        "title": "Small models also found the vulnerabilities that Mythos found",
-        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "points": 1191,
-        "comments": 318,
-        "author": "dominicq"
-      },
-      {
-        "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-        "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-        "points": 601,
-        "comments": 348,
-        "author": "tradertef"
-      },
-      {
-        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "title": "Exploiting the most prominent AI agent benchmarks",
         "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-        "points": 458,
-        "comments": 111,
+        "points": 504,
+        "comments": 130,
         "author": "Anon84"
       },
       {
-        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-        "url": "https://github.com/anthropics/claude-code/issues/45756",
-        "points": 448,
-        "comments": 405,
-        "author": "cmaster11"
-      },
-      {
-        "title": "Anthropic downgraded cache TTL on March 6th",
-        "url": "https://github.com/anthropics/claude-code/issues/46829",
-        "points": 304,
-        "comments": 222,
-        "author": "lsdmtme"
-      },
-      {
-        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-        "points": 289,
-        "comments": 480,
-        "author": "gHeadphone"
-      },
-      {
-        "title": "Seven countries now generate 100% of their electricity from renewable energy",
-        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-        "points": 249,
-        "comments": 100,
-        "author": "mpweiher"
-      },
-      {
-        "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-        "url": "https://zenodo.org/records/19513269",
-        "points": 245,
-        "comments": 132,
-        "author": "iliatoli"
-      },
-      {
-        "title": "Dark Castle",
-        "url": "https://darkcastle.co.uk/",
-        "points": 227,
-        "comments": 30,
-        "author": "evo_9"
-      },
-      {
-        "title": "Bring Back Idiomatic Design",
+        "title": "Bring Back Idiomatic Design (2023)",
         "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-        "points": 174,
-        "comments": 91,
+        "points": 502,
+        "comments": 266,
         "author": "phil294"
       },
       {
-        "title": "We have a 99% email reputation. Gmail disagrees",
-        "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-        "points": 131,
-        "comments": 119,
-        "author": "em-bee"
+        "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+        "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+        "points": 374,
+        "comments": 183,
+        "author": "super256"
       },
       {
-        "title": "Happy Map",
-        "url": "https://pudding.cool/2026/02/happy-map/",
-        "points": 126,
-        "comments": 19,
-        "author": "surprisetalk"
+        "title": "The peril of laziness lost",
+        "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+        "points": 363,
+        "comments": 120,
+        "author": "gpm"
       },
       {
-        "title": "JVM Options Explorer",
-        "url": "https://chriswhocodes.com/vm-options-explorer.html",
-        "points": 123,
-        "comments": 58,
-        "author": "0x54MUR41"
-      },
-      {
-        "title": "Internet outage in Iran reaches 1,008 hours",
-        "url": "https://mastodon.social/@netblocks/116384935123261912",
-        "points": 108,
-        "comments": 73,
-        "author": "miadabdi"
-      },
-      {
-        "title": "An Interview with Pat Gelsinger",
-        "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-        "points": 88,
-        "comments": 54,
-        "author": "zdw"
-      },
-      {
-        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-        "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-        "points": 85,
-        "comments": 9,
-        "author": "Rochus"
-      },
-      {
-        "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-        "url": "https://eualternative.eu/guides/building-saas-eu-stack/",
-        "points": 78,
-        "comments": 15,
-        "author": "sparkling"
-      },
-      {
-        "title": "A Tour of Oodi",
-        "url": "https://blinry.org/oodi/",
-        "points": 60,
-        "comments": 19,
-        "author": "zdw"
-      },
-      {
-        "title": "The Physics of GPS",
-        "url": "https://perthirtysix.com/how-does-gps-work",
-        "points": 51,
-        "comments": 9,
-        "author": "maouida"
-      },
-      {
-        "title": "Doom, Played over Curl",
-        "url": "https://github.com/xsawyerx/curl-doom",
-        "points": 51,
-        "comments": 5,
-        "author": "creaktive"
-      },
-      {
-        "title": "Eternity in six hours: Intergalactic spreading of intelligent life (2013)",
-        "url": "https://www.researchgate.net/publication/256935390_Eternity_in_six_hours_Intergalactic_spreading_of_intelligent_life_and_sharpening_the_Fermi_paradox",
-        "points": 26,
-        "comments": 18,
-        "author": "wallflower"
+        "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+        "url": "https://boringbar.app/",
+        "points": 306,
+        "comments": 177,
+        "author": "a-ve"
       },
       {
         "title": "I gave every train in New York an instrument",
         "url": "https://www.trainjazz.com/",
-        "points": 21,
-        "comments": 3,
+        "points": 247,
+        "comments": 49,
         "author": "joshuawolk"
       },
       {
-        "title": "Metrics SQL: A SQL-based semantic layer for humans and agents",
-        "url": "https://www.rilldata.com/blog/introducing-metrics-sql-a-sql-based-semantic-layer-for-humans-and-agents",
-        "points": 14,
-        "comments": 0,
-        "author": "sebg"
+        "title": "We have a 99% email reputation, but Gmail disagrees",
+        "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "points": 207,
+        "comments": 196,
+        "author": "em-bee"
       },
       {
-        "title": "Compute iOS XNU offset from kernel cache",
-        "url": "https://blog.reversesociety.co/blog/2026/kernel-rw-not-enough-extract-offsets-from-xnu-kernelcaches",
-        "points": 10,
-        "comments": 0,
-        "author": "tonygo"
+        "title": "JVM Options Explorer",
+        "url": "https://chriswhocodes.com/vm-options-explorer.html",
+        "points": 185,
+        "comments": 80,
+        "author": "0x54MUR41"
+      }
+    ],
+    "all": [
+      {
+        "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+        "url": "https://github.com/anthropics/claude-code/issues/45756",
+        "points": 574,
+        "comments": 524,
+        "author": "cmaster11"
+      },
+      {
+        "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
+        "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+        "points": 542,
+        "comments": 282,
+        "author": "mpweiher"
+      },
+      {
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "points": 504,
+        "comments": 130,
+        "author": "Anon84"
+      },
+      {
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+        "points": 502,
+        "comments": 266,
+        "author": "phil294"
+      },
+      {
+        "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+        "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+        "points": 374,
+        "comments": 183,
+        "author": "super256"
+      },
+      {
+        "title": "The peril of laziness lost",
+        "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+        "points": 363,
+        "comments": 120,
+        "author": "gpm"
+      },
+      {
+        "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+        "url": "https://boringbar.app/",
+        "points": 306,
+        "comments": 177,
+        "author": "a-ve"
+      },
+      {
+        "title": "I gave every train in New York an instrument",
+        "url": "https://www.trainjazz.com/",
+        "points": 247,
+        "comments": 49,
+        "author": "joshuawolk"
+      },
+      {
+        "title": "We have a 99% email reputation, but Gmail disagrees",
+        "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+        "points": 207,
+        "comments": 196,
+        "author": "em-bee"
+      },
+      {
+        "title": "JVM Options Explorer",
+        "url": "https://chriswhocodes.com/vm-options-explorer.html",
+        "points": 185,
+        "comments": 80,
+        "author": "0x54MUR41"
+      },
+      {
+        "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+        "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+        "points": 178,
+        "comments": 37,
+        "author": "Rochus"
+      },
+      {
+        "title": "All elementary functions from a single binary operator",
+        "url": "https://arxiv.org/abs/2603.21852",
+        "points": 172,
+        "comments": 56,
+        "author": "pizza"
+      },
+      {
+        "title": "A Tour of Oodi",
+        "url": "https://blinry.org/oodi/",
+        "points": 124,
+        "comments": 41,
+        "author": "zdw"
+      },
+      {
+        "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+        "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+        "points": 117,
+        "comments": 88,
+        "author": "mindcrime"
+      },
+      {
+        "title": "A Perfectable Programming Language",
+        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "points": 88,
+        "comments": 28,
+        "author": "yuppiemephisto"
+      },
+      {
+        "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+        "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+        "points": 84,
+        "comments": 69,
+        "author": "walterbell"
+      },
+      {
+        "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
+        "url": "https://arxiv.org/abs/2505.09509",
+        "points": 80,
+        "comments": 25,
+        "author": "radeeyate"
+      },
+      {
+        "title": "Uncharted island soon to appear on nautical charts",
+        "url": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
+        "points": 67,
+        "comments": 28,
+        "author": "tannhaeuser"
+      },
+      {
+        "title": "State of Homelab 2026",
+        "url": "https://mrlokans.work/posts/state-of-homelab-2026/",
+        "points": 56,
+        "comments": 33,
+        "author": "swq115"
+      },
+      {
+        "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+        "url": "https://arxiv.org/abs/2604.07902",
+        "points": 47,
+        "comments": 3,
+        "author": "mpweiher"
+      },
+      {
+        "title": "Haunt, the 70s text adventure game, is now playable on a website",
+        "url": "https://haunt.madebywindmill.com",
+        "points": 31,
+        "comments": 9,
+        "author": "jscalo"
+      },
+      {
+        "title": "Kindle users in uproar over update rendering oldest devices virtually unusable",
+        "url": "https://nypost.com/2026/04/09/tech/kindle-to-cease-support-for-old-devices-causing-user-uproar/",
+        "points": 23,
+        "comments": 7,
+        "author": "1vuio0pswjnm7"
+      },
+      {
+        "title": "Is Math Big or Small?",
+        "url": "https://chessapig.github.io/talks/Big-Small",
+        "points": 23,
+        "comments": 6,
+        "author": "robinhouston"
       }
     ]
   }
