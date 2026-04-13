@@ -1,277 +1,277 @@
 {
-  "generated_at": "2026-04-12T12:01:45.479585",
+  "generated_at": "2026-04-13T05:20:50.594340",
   "starred": [
-    {
-      "objectID": "47724352",
-      "title": "Filing the corners off my MacBooks",
-      "title_zh": "在我的MacBook上填写角落",
-      "url": "https://kentwalters.com/posts/corners/",
-      "points": 1336,
-      "num_comments": 634,
-      "author": "normanvalentine"
-    },
-    {
-      "objectID": "47732020",
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "title_zh": "小模型也发现了Mythos发现的漏洞",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "points": 1130,
-      "num_comments": 302,
-      "author": "dominicq"
-    },
-    {
-      "objectID": "47719740",
-      "title": "1D Chess",
-      "title_zh": "一维国际象棋",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "points": 966,
-      "num_comments": 166,
-      "author": "burnt-resistor"
-    },
-    {
-      "objectID": "47728653",
-      "title": "France's government is ditching Windows for Linux, says US tech a strategic risk",
-      "title_zh": "法国政府正在放弃Windows for Linux ，称美国科技是一项战略风险",
-      "url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-      "points": 458,
-      "num_comments": 255,
-      "author": "pabs3"
-    },
-    {
-      "objectID": "47698455",
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "title_zh": "Starfling ：单个HTML文件中的一键无尽轨道弹弓游戏",
-      "url": "https://playstarfling.com",
-      "points": 595,
-      "num_comments": 148,
-      "author": "iceberger2001"
-    },
-    {
-      "objectID": "47727960",
-      "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-      "title_zh": "Show HN: Pardonned.com –美国赦免的可搜索数据库",
-      "url": "https://news.ycombinator.com/item?id=47727960",
-      "points": 440,
-      "num_comments": 245,
-      "author": "vidluther"
-    },
     {
       "objectID": "47736555",
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
       "title_zh": "我在$ 20/月的技术堆栈上运营多家$ 10K MRR公司",
       "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "points": 301,
-      "num_comments": 210,
+      "points": 852,
+      "num_comments": 469,
       "author": "tradertef"
+    },
+    {
+      "objectID": "47739260",
+      "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
+      "title_zh": "尽管使用量适中，但Pro Max 5x配额在1.5小时内耗尽",
+      "url": "https://github.com/anthropics/claude-code/issues/45756",
+      "points": 572,
+      "num_comments": 520,
+      "author": "cmaster11"
+    },
+    {
+      "objectID": "47738883",
+      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "title_zh": "告诉HN ：由于足球Cloudflare阻止， Docker在西班牙拉动失败",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "points": 733,
+      "num_comments": 288,
+      "author": "littlecranky67"
+    },
+    {
+      "objectID": "47736476",
+      "title": "Anthropic downgraded cache TTL on March 6th",
+      "title_zh": "Anthropic于3月6日降级缓存TTL",
+      "url": "https://github.com/anthropics/claude-code/issues/46829",
+      "points": 500,
+      "num_comments": 389,
+      "author": "lsdmtme"
+    },
+    {
+      "objectID": "47739313",
+      "title": "Seven countries now generate 100% of their electricity from renewable energy",
+      "title_zh": "目前，七个国家100%的电力来自可再生能源",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "points": 541,
+      "num_comments": 282,
+      "author": "mpweiher"
+    },
+    {
+      "objectID": "47741527",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "title_zh": "问问HN ：您在做什么？ （ 2026年4月）",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "points": 171,
+      "num_comments": 506,
+      "author": "david927"
+    },
+    {
+      "objectID": "47738827",
+      "title": "Bring Back Idiomatic Design (2023)",
+      "title_zh": "带回惯用设计（ 2023年）",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "points": 501,
+      "num_comments": 265,
+      "author": "phil294"
     }
   ],
   "regular": [
     {
       "objectID": "47733217",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "title_zh": "我们如何打破顶级人工智能代理基准：以及接下来会发生什么",
+      "title": "Exploiting the most prominent AI agent benchmarks",
+      "title_zh": "利用最突出的人工智能代理基准",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "points": 402,
-      "num_comments": 99,
+      "points": 503,
+      "num_comments": 130,
       "author": "Anon84"
     },
     {
-      "objectID": "47730407",
-      "title": "South Korea introduces universal basic mobile data access",
-      "title_zh": "韩国推出通用基本移动数据访问",
-      "url": "https://www.theregister.com/2026/04/10/south_korea_data_access_universal/",
-      "points": 386,
-      "num_comments": 111,
-      "author": "saikatsg"
+      "objectID": "47743730",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "title_zh": "Google从Google Play中删除了“Doki Doki文学俱乐部”",
+      "url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
+      "points": 369,
+      "num_comments": 176,
+      "author": "super256"
     },
     {
-      "objectID": "47730194",
-      "title": "Cirrus Labs to join OpenAI",
-      "title_zh": "Cirrus Labs加入OpenAI",
-      "url": "https://cirruslabs.org/",
-      "points": 268,
-      "num_comments": 130,
-      "author": "seekdeep"
+      "objectID": "47742200",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "title_zh": "Show HN: boringBar – macOS的任务栏式Dock替代品",
+      "url": "https://boringbar.app/",
+      "points": 301,
+      "num_comments": 174,
+      "author": "a-ve"
     },
     {
-      "objectID": "47730981",
-      "title": "The future of everything is lies, I guess – Part 5: Annoyances",
-      "title_zh": "我想，一切的未来都是谎言–第5部分：烦恼",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "points": 260,
-      "num_comments": 149,
-      "author": "aphyr"
-    },
-    {
-      "objectID": "47694064",
-      "title": "Every plane you see in the sky – you can now follow it from the cockpit in 3D",
-      "title_zh": "您在天空中看到的每一架飞机–现在您可以从驾驶舱以3D方式跟踪它",
-      "url": "https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123",
-      "points": 346,
-      "num_comments": 65,
-      "author": "coolwulf"
-    },
-    {
-      "objectID": "47733971",
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "title_zh": "苹果硅和虚拟机：突破2台虚拟机的限制（ 2023年）",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "points": 206,
-      "num_comments": 144,
-      "author": "krackers"
-    },
-    {
-      "objectID": "47736298",
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "title_zh": "美国上诉法院宣布已有158年历史的家庭蒸馏禁令违宪",
-      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "points": 185,
-      "num_comments": 157,
-      "author": "Jimmc414"
-    },
-    {
-      "objectID": "47733561",
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "title_zh": "447 TB/cm ² ，零保留能量–荧光灯上的原子级内存",
-      "url": "https://zenodo.org/records/19513269",
-      "points": 222,
+      "objectID": "47743628",
+      "title": "The peril of laziness lost",
+      "title_zh": "失去懒惰的危险",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "points": 363,
       "num_comments": 119,
-      "author": "iliatoli"
+      "author": "gpm"
+    },
+    {
+      "objectID": "47738978",
+      "title": "We have a 99% email reputation, but Gmail disagrees",
+      "title_zh": "我们的电子邮件声誉高达99% ，但Gmail不同意",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "points": 206,
+      "num_comments": 193,
+      "author": "em-bee"
     },
     {
       "objectID": "47735535",
       "title": "The End of Eleventy",
       "title_zh": "十一世纪末",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "points": 176,
-      "num_comments": 131,
+      "points": 209,
+      "num_comments": 175,
       "author": "ValentineC"
     },
     {
-      "objectID": "47695213",
-      "title": "Optimal Strategy for Connect 4",
-      "title_zh": "Connect 4的最佳策略",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "points": 297,
-      "num_comments": 32,
-      "author": "marvinborner"
+      "objectID": "47741701",
+      "title": "DIY Soft Drinks",
+      "title_zh": "软饮",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "points": 319,
+      "num_comments": 87,
+      "author": "_Microft"
     },
     {
-      "objectID": "47731506",
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "title_zh": "Advanced Mac Substitute是20世纪80年代Mac OS的API级重新实现",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "points": 249,
-      "num_comments": 62,
-      "author": "zdw"
-    },
-    {
-      "objectID": "47693559",
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "title_zh": "Surelock ： Rust的无死锁互斥体",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "points": 220,
-      "num_comments": 71,
-      "author": "codetheweb"
-    },
-    {
-      "objectID": "47737383",
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "title_zh": "Apple更新看起来像锁定的iPhone用户的捷克MATE",
-      "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-      "points": 186,
-      "num_comments": 92,
-      "author": "OuterVale"
-    },
-    {
-      "objectID": "47736476",
-      "title": "Anthropic silently downgraded cache TTL from 1h → 5M on March 6th",
-      "title_zh": "Anthropic已从3月6日的1小时→5分钟静默降级缓存TTL",
-      "url": "https://github.com/anthropics/claude-code/issues/46829",
-      "points": 124,
-      "num_comments": 104,
-      "author": "lsdmtme"
-    },
-    {
-      "objectID": "47702890",
-      "title": "How Passive Radar Works",
-      "title_zh": "无源雷达的工作原理",
-      "url": "https://www.passiveradar.com/how-passive-radar-works/",
-      "points": 177,
-      "num_comments": 53,
+      "objectID": "47702887",
+      "title": "Most people can't juggle one ball",
+      "title_zh": "大多数人不会玩一个球",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "points": 298,
+      "num_comments": 91,
       "author": "surprisetalk"
     },
     {
-      "objectID": "47733521",
-      "title": "Dark Castle",
-      "title_zh": "黑堡",
-      "url": "https://darkcastle.co.uk/",
-      "points": 196,
-      "num_comments": 24,
-      "author": "evo_9"
+      "objectID": "47742790",
+      "title": "The Closing of the Frontier",
+      "title_zh": "边疆的封闭",
+      "url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+      "points": 177,
+      "num_comments": 116,
+      "author": "MindGods"
     },
     {
-      "objectID": "47727659",
-      "title": "Productive Procrastination",
-      "title_zh": "富有成效的拖延",
-      "url": "https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/",
-      "points": 146,
-      "num_comments": 49,
-      "author": "maxvij"
+      "objectID": "47719490",
+      "title": "I gave every train in New York an instrument",
+      "title_zh": "我给了纽约的每一列火车一台乐器",
+      "url": "https://www.trainjazz.com/",
+      "points": 246,
+      "num_comments": 48,
+      "author": "joshuawolk"
     },
     {
-      "objectID": "47730712",
-      "title": "The Problem That Built an Industry",
-      "title_zh": "构建行业的问题",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "points": 136,
-      "num_comments": 44,
-      "author": "ShaggyHotDog"
+      "objectID": "47743700",
+      "title": "European AI. A playbook to own it",
+      "title_zh": "欧洲人工智能。拥有它的剧本",
+      "url": "https://europe.mistral.ai/",
+      "points": 161,
+      "num_comments": 96,
+      "author": "hjouneau"
     },
     {
-      "objectID": "47672941",
-      "title": "Pijul a FOSS distributed version control system",
-      "title_zh": "Pijul a FOSS分布式版本控制系统",
-      "url": "https://pijul.org/",
-      "points": 163,
-      "num_comments": 24,
-      "author": "kouosi"
+      "objectID": "47738094",
+      "title": "JVM Options Explorer",
+      "title_zh": "JVM选项资源管理器",
+      "url": "https://chriswhocodes.com/vm-options-explorer.html",
+      "points": 184,
+      "num_comments": 80,
+      "author": "0x54MUR41"
     },
     {
-      "objectID": "47673171",
-      "title": "How Complex is my Code?",
-      "title_zh": "我的代码有多复杂？",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "points": 133,
-      "num_comments": 33,
-      "author": "speckx"
+      "objectID": "47675444",
+      "title": "Happy Map",
+      "title_zh": "快乐地图",
+      "url": "https://pudding.cool/2026/02/happy-map/",
+      "points": 236,
+      "num_comments": 42,
+      "author": "surprisetalk"
     },
     {
-      "objectID": "47732697",
-      "title": "How to build a `Git diff` driver",
-      "title_zh": "如何构建“Git diff”驱动程序",
-      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "points": 120,
-      "num_comments": 12,
+      "objectID": "47737376",
+      "title": "Phyphox – Physical Experiments Using a Smartphone",
+      "title_zh": "Phyphox –使用智能手机进行物理实验",
+      "url": "https://phyphox.org/",
+      "points": 202,
+      "num_comments": 32,
+      "author": "_Microft"
+    },
+    {
+      "objectID": "47745284",
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "title_zh": "与ROCm一起承担CUDA ： “一步接着一步”",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "points": 112,
+      "num_comments": 85,
+      "author": "mindcrime"
+    },
+    {
+      "objectID": "47746610",
+      "title": "All elementary functions from a single binary operator",
+      "title_zh": "来自单个二元运算符的所有基本函数",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "points": 158,
+      "num_comments": 52,
+      "author": "pizza"
+    },
+    {
+      "objectID": "47739174",
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "title_zh": "Show HN ： Oberon System 3在Raspberry Pi 3上原生运行（带有就绪SD卡）",
+      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "points": 176,
+      "num_comments": 37,
+      "author": "Rochus"
+    },
+    {
+      "objectID": "47738864",
+      "title": "Why AI Sucks at Front End",
+      "title_zh": "为什么人工智能在前端很糟糕",
+      "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+      "points": 75,
+      "num_comments": 84,
+      "author": "tobr"
+    },
+    {
+      "objectID": "47706423",
+      "title": "An Interview with Pat Gelsinger",
+      "title_zh": "Pat Gelsinger访谈录",
+      "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
+      "points": 107,
+      "num_comments": 65,
       "author": "zdw"
     },
     {
-      "objectID": "47731838",
-      "title": "Keeping a Postgres Queue Healthy",
-      "title_zh": "保持Postgres队列健康",
-      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "points": 99,
-      "num_comments": 25,
-      "author": "tanelpoder"
+      "objectID": "47745120",
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "title_zh": "科技股估值已回到人工智能繁荣前的水平",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+      "points": 126,
+      "num_comments": 34,
+      "author": "akyuu"
     },
     {
-      "objectID": "47729634",
-      "title": "Now is the best time to write code by hand",
-      "title_zh": "现在是手工编写代码的最佳时机",
-      "url": "https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/",
-      "points": 80,
-      "num_comments": 35,
-      "author": "nickgreg"
+      "objectID": "47747017",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "title_zh": "苹果的意外护城河： “AI失败者”如何最终获胜",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "points": 77,
+      "num_comments": 63,
+      "author": "walterbell"
+    },
+    {
+      "objectID": "47672718",
+      "title": "Tofolli gates are all you need",
+      "title_zh": "Tofolli门是您所需要的一切",
+      "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+      "points": 123,
+      "num_comments": 43,
+      "author": "ibobev"
+    },
+    {
+      "objectID": "47706560",
+      "title": "A Tour of Oodi",
+      "title_zh": "乌迪之旅",
+      "url": "https://blinry.org/oodi/",
+      "points": 124,
+      "num_comments": 40,
+      "author": "zdw"
     }
   ]
 }
