@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-14T05:16:51.658507",
+  "generated_at": "2026-04-14T10:06:57.872018",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 116813,
+      "stars": 117013,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 87711,
+      "stars": 87816,
       "language": "Python",
       "url": "https://github.com/github/spec-kit"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 79253,
+      "stars": 81683,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 71779,
+      "stars": 71959,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 64468,
+      "stars": 64630,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 61245,
+      "stars": 61344,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55735,
+      "stars": 55742,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 54775,
+      "stars": 54873,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53736,
+      "stars": 53740,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 53614,
+      "stars": 53678,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     }
@@ -77,293 +77,293 @@
       {
         "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
         "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-        "points": 812,
-        "comments": 231,
+        "points": 953,
+        "comments": 267,
         "author": "speckx"
       },
       {
         "title": "GitHub Stacked PRs",
         "url": "https://github.github.com/gh-stack/",
-        "points": 571,
-        "comments": 318,
+        "points": 714,
+        "comments": 375,
         "author": "ezekg"
+      },
+      {
+        "title": "DaVinci Resolve – Photo",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "points": 569,
+        "comments": 145,
+        "author": "thebiblelover7"
       },
       {
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-        "points": 384,
-        "comments": 204,
+        "points": 420,
+        "comments": 235,
         "author": "m-hodges"
       },
       {
         "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
         "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-        "points": 348,
-        "comments": 246,
+        "points": 386,
+        "comments": 257,
         "author": "t-3"
-      },
-      {
-        "title": "Make tmux pretty and usable (2024)",
-        "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-        "points": 341,
-        "comments": 214,
-        "author": "speckx"
       }
     ],
     "top": [
       {
         "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
         "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-        "points": 812,
-        "comments": 231,
+        "points": 953,
+        "comments": 267,
         "author": "speckx"
       },
       {
         "title": "GitHub Stacked PRs",
         "url": "https://github.github.com/gh-stack/",
-        "points": 571,
-        "comments": 318,
+        "points": 714,
+        "comments": 375,
         "author": "ezekg"
+      },
+      {
+        "title": "DaVinci Resolve – Photo",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "points": 569,
+        "comments": 145,
+        "author": "thebiblelover7"
       },
       {
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-        "points": 384,
-        "comments": 204,
+        "points": 420,
+        "comments": 235,
         "author": "m-hodges"
       },
       {
         "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
         "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-        "points": 348,
-        "comments": 246,
+        "points": 386,
+        "comments": 257,
         "author": "t-3"
       },
       {
         "title": "Make tmux pretty and usable (2024)",
         "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-        "points": 341,
-        "comments": 214,
+        "points": 382,
+        "comments": 235,
         "author": "speckx"
       },
       {
         "title": "Android now stops you sharing your location in photos",
         "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-        "points": 326,
-        "comments": 285,
+        "points": 369,
+        "comments": 297,
         "author": "edent"
+      },
+      {
+        "title": "A new spam policy for “back button hijacking”",
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "points": 360,
+        "comments": 219,
+        "author": "zdw"
       },
       {
         "title": "Building a CLI for all of Cloudflare",
         "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-        "points": 281,
-        "comments": 91,
+        "points": 310,
+        "comments": 101,
         "author": "soheilpro"
-      },
-      {
-        "title": "DaVinci Resolve releases Photo Editor",
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-        "points": 195,
-        "comments": 46,
-        "author": "thebiblelover7"
       },
       {
         "title": "Lean proved this program correct; then I found a bug",
         "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-        "points": 171,
-        "comments": 89,
+        "points": 250,
+        "comments": 127,
         "author": "bumbledraven"
-      },
-      {
-        "title": "How to make Firefox builds 17% faster",
-        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-        "points": 149,
-        "comments": 25,
-        "author": "mbitsnbites"
       }
     ],
     "all": [
       {
         "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
         "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-        "points": 812,
-        "comments": 231,
+        "points": 953,
+        "comments": 267,
         "author": "speckx"
       },
       {
         "title": "GitHub Stacked PRs",
         "url": "https://github.github.com/gh-stack/",
-        "points": 571,
-        "comments": 318,
+        "points": 714,
+        "comments": 375,
         "author": "ezekg"
+      },
+      {
+        "title": "DaVinci Resolve – Photo",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "points": 569,
+        "comments": 145,
+        "author": "thebiblelover7"
       },
       {
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-        "points": 384,
-        "comments": 204,
+        "points": 420,
+        "comments": 235,
         "author": "m-hodges"
       },
       {
         "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
         "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-        "points": 348,
-        "comments": 246,
+        "points": 386,
+        "comments": 257,
         "author": "t-3"
       },
       {
         "title": "Make tmux pretty and usable (2024)",
         "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-        "points": 341,
-        "comments": 214,
+        "points": 382,
+        "comments": 235,
         "author": "speckx"
       },
       {
         "title": "Android now stops you sharing your location in photos",
         "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-        "points": 326,
-        "comments": 285,
+        "points": 369,
+        "comments": 297,
         "author": "edent"
+      },
+      {
+        "title": "A new spam policy for “back button hijacking”",
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "points": 360,
+        "comments": 219,
+        "author": "zdw"
       },
       {
         "title": "Building a CLI for all of Cloudflare",
         "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-        "points": 281,
-        "comments": 91,
+        "points": 310,
+        "comments": 101,
         "author": "soheilpro"
-      },
-      {
-        "title": "DaVinci Resolve releases Photo Editor",
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-        "points": 195,
-        "comments": 46,
-        "author": "thebiblelover7"
       },
       {
         "title": "Lean proved this program correct; then I found a bug",
         "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-        "points": 171,
-        "comments": 89,
+        "points": 250,
+        "comments": 127,
         "author": "bumbledraven"
-      },
-      {
-        "title": "How to make Firefox builds 17% faster",
-        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-        "points": 149,
-        "comments": 25,
-        "author": "mbitsnbites"
-      },
-      {
-        "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-        "url": "https://www.ithihasas.in",
-        "points": 135,
-        "comments": 33,
-        "author": "cvrajeesh"
       },
       {
         "title": "I just want simple S3",
         "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
-        "points": 128,
-        "comments": 75,
+        "points": 181,
+        "comments": 91,
         "author": "g0xA52A2A"
       },
       {
-        "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-        "url": "https://amd-gaia.ai/docs",
-        "points": 113,
-        "comments": 28,
-        "author": "galaxyLogic"
+        "title": "How to make Firefox builds 17% faster",
+        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+        "points": 180,
+        "comments": 34,
+        "author": "mbitsnbites"
       },
       {
         "title": "WiiFin – Jellyfin Client for Nintendo Wii",
         "url": "https://github.com/fabienmillet/WiiFin",
-        "points": 108,
-        "comments": 42,
+        "points": 160,
+        "comments": 71,
         "author": "throwawayk7h"
-      },
-      {
-        "title": "A new spam policy for \"back button hijacking\"",
-        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-        "points": 106,
-        "comments": 52,
-        "author": "zdw"
-      },
-      {
-        "title": "Tracking down a 25% Regression on LLVM RISC-V",
-        "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-        "points": 106,
-        "comments": 21,
-        "author": "luu"
-      },
-      {
-        "title": "New Orleans's Car-Crash Conspiracy",
-        "url": "https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy",
-        "points": 98,
-        "comments": 55,
-        "author": "Geekette"
-      },
-      {
-        "title": "Visualizing CPU Pipelining (2024)",
-        "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-        "points": 75,
-        "comments": 10,
-        "author": "flipacholas"
-      },
-      {
-        "title": "Air Powered Segment Display? [video]",
-        "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-        "points": 75,
-        "comments": 9,
-        "author": "ProfDreamer"
-      },
-      {
-        "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-        "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
-        "points": 70,
-        "comments": 14,
-        "author": "wibbily"
       },
       {
         "title": "Design and implementation of DuckDB internals",
         "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-        "points": 69,
-        "comments": 6,
+        "points": 122,
+        "comments": 8,
         "author": "mpweiher"
       },
       {
-        "title": "The AI revolution in math has arrived",
-        "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-        "points": 66,
-        "comments": 31,
-        "author": "sonabinu"
+        "title": "An AI Vibe Coding Horror Story",
+        "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+        "points": 107,
+        "comments": 81,
+        "author": "teichmann"
       },
       {
         "title": "Write less code, be more responsible",
         "url": "https://blog.orhun.dev/code-responsibly/",
-        "points": 55,
-        "comments": 32,
+        "points": 92,
+        "comments": 56,
         "author": "orhunp_"
       },
       {
-        "title": "What we learned building a Rust runtime for TypeScript",
-        "url": "https://encore.dev/blog/rust-runtime",
-        "points": 53,
-        "comments": 12,
-        "author": "vinhnx"
+        "title": "The secrets of the Shinkansen",
+        "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+        "points": 79,
+        "comments": 65,
+        "author": "WillDaSilva"
+      },
+      {
+        "title": "Backblaze has stopped backing up your data",
+        "url": "https://rareese.com/posts/backblaze/",
+        "points": 78,
+        "comments": 32,
+        "author": "rrreese"
       },
       {
         "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
         "url": "https://ndaybench.winfunc.com",
-        "points": 50,
-        "comments": 12,
+        "points": 71,
+        "comments": 19,
         "author": "mufeedvh"
       },
       {
-        "title": "The Journal of C Language Translation",
-        "url": "http://jclt.iecc.com/",
-        "points": 10,
-        "comments": 1,
-        "author": "kristianp"
+        "title": "TanStack Start Now Support React Server Components",
+        "url": "https://tanstack.com/blog/react-server-components",
+        "points": 59,
+        "comments": 44,
+        "author": "polywock"
+      },
+      {
+        "title": "Distributed DuckDB Instance",
+        "url": "https://github.com/citguru/openduck",
+        "points": 55,
+        "comments": 9,
+        "author": "citguru"
+      },
+      {
+        "title": "Introspective Diffusion Language Models",
+        "url": "https://introspective-diffusion.github.io/",
+        "points": 39,
+        "comments": 9,
+        "author": "zagwdt"
+      },
+      {
+        "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+        "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+        "points": 37,
+        "comments": 9,
+        "author": "tie-in"
+      },
+      {
+        "title": "Anastasia (1997) live action reference material",
+        "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+        "points": 27,
+        "comments": 3,
+        "author": "hyperific"
+      },
+      {
+        "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+        "url": "https://github.com/lasect/pg_6502",
+        "points": 20,
+        "comments": 2,
+        "author": "adunk"
+      },
+      {
+        "title": "Repository Pattern with Hygienic Macros in Scheme – Lisp",
+        "url": "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html",
+        "points": 8,
+        "comments": 0,
+        "author": "jjba23"
       },
       {
         "title": "SnapState - Persistent state for AI agent workflows",
@@ -373,11 +373,11 @@
         "author": "robohobo"
       },
       {
-        "title": "Sometimes powerful people just do dumb shit",
-        "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
-        "points": 5,
+        "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
+        "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
+        "points": 4,
         "comments": 0,
-        "author": "zdw"
+        "author": "adulion"
       }
     ]
   }
