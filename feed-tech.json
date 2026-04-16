@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-15T10:07:59.139485",
+  "generated_at": "2026-04-16T05:24:16.770136",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 117750,
+      "stars": 118284,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
-      "name": "github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 88130,
-      "language": "Python",
-      "url": "https://github.com/github/spec-kit"
-    },
-    {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 87496,
+      "stars": 90675,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 88375,
+      "language": "Python",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 72533,
+      "stars": 72918,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 65279,
+      "stars": 65912,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 61673,
+      "stars": 61867,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55771,
+      "stars": 55783,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 55207,
+      "stars": 55446,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 53928,
+      "stars": 54115,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53758,
+      "stars": 53785,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     }
@@ -75,288 +75,288 @@
   "hackernews": {
     "starred": [
       {
-        "title": "Stop Flock",
-        "url": "https://stopflock.com",
-        "points": 673,
-        "comments": 175,
-        "author": "cdrnsf"
+        "title": "Google broke its promise to me – now ICE has my data",
+        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "points": 1288,
+        "comments": 554,
+        "author": "Brajeshwar"
       },
       {
-        "title": "Rare concert recordings are landing on the Internet Archive",
-        "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-        "points": 646,
-        "comments": 188,
-        "author": "jrm-veris"
+        "title": "God sleeps in the minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "points": 501,
+        "comments": 100,
+        "author": "speckx"
       },
       {
-        "title": "Claude Code Routines",
-        "url": "https://code.claude.com/docs/en/routines",
-        "points": 611,
-        "comments": 355,
-        "author": "matthieu_bl"
+        "title": "Live Nation illegally monopolized ticketing market, jury finds",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+        "points": 479,
+        "comments": 140,
+        "author": "Alex_Bond"
       },
       {
-        "title": "The dangers of California's legislation to censor 3D printing",
-        "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-        "points": 402,
-        "comments": 367,
-        "author": "salkahfi"
+        "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+        "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+        "points": 382,
+        "comments": 393,
+        "author": "askl"
       },
       {
-        "title": "The Orange Pi 6 Plus",
-        "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-        "points": 192,
-        "comments": 158,
-        "author": "rcarmo"
+        "title": "Cybersecurity looks like proof of work now",
+        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "points": 330,
+        "comments": 117,
+        "author": "dbreunig"
       }
     ],
     "top": [
       {
-        "title": "Stop Flock",
-        "url": "https://stopflock.com",
-        "points": 673,
-        "comments": 175,
-        "author": "cdrnsf"
+        "title": "Google broke its promise to me – now ICE has my data",
+        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "points": 1288,
+        "comments": 554,
+        "author": "Brajeshwar"
       },
       {
-        "title": "Rare concert recordings are landing on the Internet Archive",
-        "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-        "points": 646,
-        "comments": 188,
-        "author": "jrm-veris"
+        "title": "God sleeps in the minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "points": 501,
+        "comments": 100,
+        "author": "speckx"
       },
       {
-        "title": "Claude Code Routines",
-        "url": "https://code.claude.com/docs/en/routines",
-        "points": 611,
-        "comments": 355,
-        "author": "matthieu_bl"
+        "title": "Live Nation illegally monopolized ticketing market, jury finds",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+        "points": 479,
+        "comments": 140,
+        "author": "Alex_Bond"
       },
       {
-        "title": "The dangers of California's legislation to censor 3D printing",
-        "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-        "points": 402,
-        "comments": 367,
-        "author": "salkahfi"
+        "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+        "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+        "points": 382,
+        "comments": 393,
+        "author": "askl"
       },
       {
-        "title": "The Orange Pi 6 Plus",
-        "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-        "points": 192,
-        "comments": 158,
-        "author": "rcarmo"
+        "title": "Cybersecurity looks like proof of work now",
+        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "points": 330,
+        "comments": 117,
+        "author": "dbreunig"
       },
       {
-        "title": "Let's talk space toilets",
-        "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
-        "points": 182,
-        "comments": 50,
-        "author": "zdw"
+        "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+        "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
+        "points": 318,
+        "comments": 169,
+        "author": "bckygldstn"
       },
       {
-        "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-        "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-        "points": 172,
-        "comments": 64,
-        "author": "major4x"
+        "title": "Cal.com is going closed source",
+        "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+        "points": 260,
+        "comments": 189,
+        "author": "Benjamin_Dobell"
       },
       {
-        "title": "5NF and Database Design",
-        "url": "https://kb.databasedesignbook.com/posts/5nf/",
-        "points": 165,
-        "comments": 60,
-        "author": "petalmind"
+        "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+        "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+        "points": 258,
+        "comments": 116,
+        "author": "pentagrama"
       },
       {
-        "title": "Turn your best AI prompts into one-click tools in Chrome",
-        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-        "points": 162,
-        "comments": 82,
-        "author": "xnx"
+        "title": "Do you even need a database?",
+        "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+        "points": 229,
+        "comments": 260,
+        "author": "upmostly"
       },
       {
-        "title": "Fixing a 20-year-old bug in Enlightenment E16",
-        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-        "points": 144,
-        "comments": 42,
-        "author": "snoofydude"
+        "title": "ChatGPT for Excel",
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "points": 153,
+        "comments": 111,
+        "author": "armcat"
       }
     ],
     "all": [
       {
-        "title": "Stop Flock",
-        "url": "https://stopflock.com",
-        "points": 673,
-        "comments": 175,
-        "author": "cdrnsf"
+        "title": "Google broke its promise to me – now ICE has my data",
+        "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+        "points": 1288,
+        "comments": 554,
+        "author": "Brajeshwar"
       },
       {
-        "title": "Rare concert recordings are landing on the Internet Archive",
-        "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-        "points": 646,
-        "comments": 188,
-        "author": "jrm-veris"
+        "title": "God sleeps in the minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "points": 501,
+        "comments": 100,
+        "author": "speckx"
       },
       {
-        "title": "Claude Code Routines",
-        "url": "https://code.claude.com/docs/en/routines",
-        "points": 611,
-        "comments": 355,
-        "author": "matthieu_bl"
+        "title": "Live Nation illegally monopolized ticketing market, jury finds",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+        "points": 479,
+        "comments": 140,
+        "author": "Alex_Bond"
       },
       {
-        "title": "The dangers of California's legislation to censor 3D printing",
-        "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-        "points": 402,
-        "comments": 367,
-        "author": "salkahfi"
+        "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+        "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
+        "points": 382,
+        "comments": 393,
+        "author": "askl"
       },
       {
-        "title": "The Orange Pi 6 Plus",
-        "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-        "points": 192,
-        "comments": 158,
-        "author": "rcarmo"
+        "title": "Cybersecurity looks like proof of work now",
+        "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+        "points": 330,
+        "comments": 117,
+        "author": "dbreunig"
       },
       {
-        "title": "Let's talk space toilets",
-        "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
-        "points": 182,
-        "comments": 50,
-        "author": "zdw"
+        "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+        "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
+        "points": 318,
+        "comments": 169,
+        "author": "bckygldstn"
       },
       {
-        "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-        "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-        "points": 172,
+        "title": "Cal.com is going closed source",
+        "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+        "points": 260,
+        "comments": 189,
+        "author": "Benjamin_Dobell"
+      },
+      {
+        "title": "YouTube users get option to set their Shorts time limit to zero minutes",
+        "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+        "points": 258,
+        "comments": 116,
+        "author": "pentagrama"
+      },
+      {
+        "title": "Do you even need a database?",
+        "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+        "points": 229,
+        "comments": 260,
+        "author": "upmostly"
+      },
+      {
+        "title": "ChatGPT for Excel",
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "points": 153,
+        "comments": 111,
+        "author": "armcat"
+      },
+      {
+        "title": "The Gemini app is now on Mac",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+        "points": 120,
+        "comments": 57,
+        "author": "thm"
+      },
+      {
+        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+        "points": 114,
+        "comments": 88,
+        "author": "1vuio0pswjnm7"
+      },
+      {
+        "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+        "url": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
+        "points": 107,
         "comments": 64,
-        "author": "major4x"
+        "author": "amichail"
       },
       {
-        "title": "5NF and Database Design",
-        "url": "https://kb.databasedesignbook.com/posts/5nf/",
-        "points": 165,
-        "comments": 60,
-        "author": "petalmind"
+        "title": "I made a terminal pager",
+        "url": "https://theleo.zone/posts/pager/",
+        "points": 103,
+        "comments": 20,
+        "author": "speckx"
       },
       {
-        "title": "Turn your best AI prompts into one-click tools in Chrome",
-        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-        "points": 162,
-        "comments": 82,
-        "author": "xnx"
+        "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+        "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+        "points": 95,
+        "comments": 12,
+        "author": "gregsadetsky"
       },
       {
-        "title": "Fixing a 20-year-old bug in Enlightenment E16",
-        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-        "points": 144,
-        "comments": 42,
-        "author": "snoofydude"
+        "title": "Stealth signals are bypassing Iran’s internet blackout",
+        "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+        "points": 74,
+        "comments": 13,
+        "author": "WaitWaitWha"
       },
       {
-        "title": "Picasso’s Guernica (Gigapixel)",
-        "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
-        "points": 138,
-        "comments": 39,
-        "author": "guigar"
+        "title": "Retrofitting JIT Compilers into C Interpreters",
+        "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+        "points": 65,
+        "comments": 14,
+        "author": "ltratt"
       },
       {
-        "title": "Dependency cooldowns turn you into a free-rider",
-        "url": "https://calpaterson.com/deps.html",
-        "points": 119,
-        "comments": 82,
+        "title": "Darkbloom – Private inference on idle Macs",
+        "url": "https://darkbloom.dev",
+        "points": 60,
+        "comments": 34,
+        "author": "twapi"
+      },
+      {
+        "title": "Introduction to spherical harmonics for graphics programmers",
+        "url": "https://gpfault.net/posts/sph.html",
+        "points": 57,
+        "comments": 6,
+        "author": "luu"
+      },
+      {
+        "title": "IPv8 Proposal",
+        "url": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
+        "points": 24,
+        "comments": 5,
+        "author": "EvanZhouDev"
+      },
+      {
+        "title": "Agent - Native Mac OS X coding ide/harness",
+        "url": "https://github.com/macOS26/Agent",
+        "points": 24,
+        "comments": 5,
+        "author": "jv22222"
+      },
+      {
+        "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+        "url": "https://daedal.io/@thomzane/116410863009847575",
+        "points": 23,
+        "comments": 3,
         "author": "pabs3"
       },
       {
-        "title": "Not all elementary functions can be expressed with exp-minus-log",
-        "url": "https://www.stylewarning.com/posts/not-all-elementary/",
-        "points": 99,
-        "comments": 79,
-        "author": "mmastrac"
+        "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+        "url": "https://github.com/Nightmare-Eclipse/RedSun",
+        "points": 20,
+        "comments": 0,
+        "author": "airhangerf15"
       },
       {
-        "title": "Wacli – WhatsApp CLI: sync, search, send",
-        "url": "https://github.com/steipete/wacli",
-        "points": 95,
-        "comments": 72,
-        "author": "dinakars777"
+        "title": "Show HN: Hiraeth – AWS Emulator",
+        "url": "https://github.com/SethPyle376/hiraeth",
+        "points": 15,
+        "comments": 4,
+        "author": "ozarkerD"
       },
       {
-        "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
-        "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
-        "points": 81,
-        "comments": 21,
-        "author": "mirzap"
-      },
-      {
-        "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
-        "url": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
-        "points": 64,
-        "comments": 35,
-        "author": "homarp"
-      },
-      {
-        "title": "My adventure in designing API keys",
-        "url": "https://vjay15.github.io/blog/apikeys/",
-        "points": 61,
-        "comments": 45,
-        "author": "vjay15"
-      },
-      {
-        "title": "Founders Need to Be Ruthless When Chasing Deals",
-        "url": "https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/",
-        "points": 49,
-        "comments": 17,
-        "author": "tie-in"
-      },
-      {
-        "title": "Installing OpenBSD on the Pomera DM250 Writerdeck",
-        "url": "https://jcs.org/2026/04/09/openbsd-dm250",
-        "points": 39,
-        "comments": 9,
-        "author": "djfergus"
-      },
-      {
-        "title": "My AI-Assisted Workflow",
-        "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-        "points": 35,
-        "comments": 17,
-        "author": "maiobarbero"
-      },
-      {
-        "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-        "url": "https://prog21.dadgum.com/30.html",
-        "points": 22,
-        "comments": 6,
-        "author": "downbad_"
-      },
-      {
-        "title": "PCBWay sponsorship: full-size SD module for Arduino projects",
-        "url": "https://www.colino.net/wordpress/archives/2026/04/10/pcbway-sponsorship-full-size-sd-module-for-arduino-projects/",
-        "points": 19,
-        "comments": 16,
-        "author": "ibobev"
-      },
-      {
-        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "points": 14,
-        "comments": 2,
-        "author": "takumi123"
-      },
-      {
-        "title": "Good Sleep, Good Learning (2012)",
-        "url": "https://super-memory.com/articles/sleep.htm",
-        "points": 13,
-        "comments": 1,
-        "author": "downbad_"
-      },
-      {
-        "title": "What Is in Road Flares?",
-        "url": "https://www.spiegl.org/rocket/flare/flare.html",
-        "points": 11,
-        "comments": 7,
-        "author": "hyperific"
+        "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+        "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+        "points": 12,
+        "comments": 0,
+        "author": "pwim"
       },
       {
         "title": "SnapState - Persistent state for AI agent workflows",
@@ -366,11 +366,18 @@
         "author": "robohobo"
       },
       {
-        "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-        "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+        "title": "Too much discussion of the XOR swap trick",
+        "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
         "points": 5,
         "comments": 0,
-        "author": "birdculture"
+        "author": "CJefferson"
+      },
+      {
+        "title": "Adaptional (YC S25) is hiring AI engineers",
+        "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+        "points": 0,
+        "comments": 0,
+        "author": "acesohc"
       },
       {
         "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
