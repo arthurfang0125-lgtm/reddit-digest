@@ -1,277 +1,277 @@
 {
-  "generated_at": "2026-04-16T04:56:58.076795",
+  "generated_at": "2026-04-17T04:54:44.673221",
   "starred": [
     {
-      "objectID": "47782570",
-      "title": "Google broke its promise to me – now ICE has my data",
-      "title_zh": "谷歌违背了对我的承诺--现在ICE掌握了我的数据",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "points": 1276,
-      "num_comments": 549,
-      "author": "Brajeshwar"
+      "objectID": "47793411",
+      "title": "Claude Opus 4.7",
+      "title_zh": "Claude Opus 4",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "points": 1583,
+      "num_comments": 1120,
+      "author": "meetpateltech"
     },
     {
-      "objectID": "47776035",
-      "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
-      "title_zh": "Anna's Archive在Spotify盗版案件中不战而败，损失$ 3.22亿",
-      "url": "https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/",
-      "points": 376,
-      "num_comments": 393,
-      "author": "askl"
+      "objectID": "47777894",
+      "title": "IPv6 traffic crosses the 50% mark",
+      "title_zh": "IPv6流量突破50%大关",
+      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "points": 782,
+      "num_comments": 575,
+      "author": "Aaronmacaron"
     },
     {
-      "objectID": "47783940",
-      "title": "Ask HN: Who is using OpenClaw?",
-      "title_zh": "询问HN ：谁在使用OpenClaw ？",
-      "url": "https://news.ycombinator.com/item?id=47783940",
-      "points": 251,
-      "num_comments": 301,
-      "author": "misterchocolat"
+      "objectID": "47792764",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "title_zh": "Qwen3.6-35B-A3B ： Agent编码能力，现在向所有人开放",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "points": 978,
+      "num_comments": 433,
+      "author": "cmitsakis"
     },
     {
-      "objectID": "47776796",
-      "title": "Want to write a compiler? Just read these two papers (2008)",
-      "title_zh": "想要编写编译器吗？只需阅读这两篇论文（ 2008年）",
-      "url": "https://prog21.dadgum.com/30.html",
-      "points": 477,
-      "num_comments": 142,
-      "author": "downbad_"
+      "objectID": "47792718",
+      "title": "The future of everything is lies, I guess: Where do we go from here?",
+      "title_zh": "一切的未来都是谎言，我想：我们从这里走向何方？",
+      "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
+      "points": 550,
+      "num_comments": 600,
+      "author": "aphyr"
     },
     {
-      "objectID": "47783713",
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "title_zh": "陪审团发现， Live Nation非法垄断了票务市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-      "points": 472,
-      "num_comments": 140,
-      "author": "Alex_Bond"
+      "objectID": "47796469",
+      "title": "Codex for almost everything",
+      "title_zh": "几乎适用于所有事物的法典",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "points": 766,
+      "num_comments": 387,
+      "author": "mikeevans"
     },
     {
-      "objectID": "47776557",
-      "title": "Good sleep, good learning, good life (2012)",
-      "title_zh": "良好的睡眠，良好的学习，良好的生活（ 2012 ）",
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "points": 381,
-      "num_comments": 191,
-      "author": "downbad_"
+      "objectID": "47788542",
+      "title": "Darkbloom – Private inference on idle Macs",
+      "title_zh": "Darkbloom –闲置Mac上的私密推断",
+      "url": "https://darkbloom.dev",
+      "points": 475,
+      "num_comments": 235,
+      "author": "twapi"
     },
     {
-      "objectID": "47778475",
-      "title": "God sleeps in the minerals",
-      "title_zh": "上帝睡在矿物中",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-      "points": 494,
-      "num_comments": 99,
-      "author": "speckx"
+      "objectID": "47792593",
+      "title": "Cloudflare Email Service",
+      "title_zh": "Cloudflare电子邮件服务",
+      "url": "https://blog.cloudflare.com/email-for-agents/",
+      "points": 425,
+      "num_comments": 196,
+      "author": "jilles"
     }
   ],
   "regular": [
     {
-      "objectID": "47778086",
-      "title": "Do you even need a database?",
-      "title_zh": "您甚至需要一个数据库吗？",
-      "url": "https://www.dbpro.app/blog/do-you-even-need-a-database",
+      "objectID": "47788424",
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "title_zh": "FSF试图就垃圾邮件发送者通过Gmail账号发送1万多封邮件一事与谷歌联系",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "points": 369,
+      "num_comments": 216,
+      "author": "pabs3"
+    },
+    {
+      "objectID": "47796830",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "title_zh": "Qwen3.6-35B-A3B在我的笔记本电脑上画了一个比Claude Opus 4.7更好的鹈鹕",
+      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+      "points": 350,
+      "num_comments": 75,
+      "author": "simonw"
+    },
+    {
+      "objectID": "47799120",
+      "title": "The \"Passive Income\" trap ate a generation of entrepreneurs",
+      "title_zh": "“被动收入”陷阱吞噬了一代创业者",
+      "url": "https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/",
       "points": 228,
-      "num_comments": 258,
-      "author": "upmostly"
-    },
-    {
-      "objectID": "47780712",
-      "title": "Open Source Isn't Dead",
-      "title_zh": "开源并未消亡",
-      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-      "points": 314,
-      "num_comments": 168,
-      "author": "bearsyankees"
-    },
-    {
-      "objectID": "47785738",
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "title_zh": "麦当劳日本汉堡照片中的面包都略微歪斜",
-      "url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-      "points": 308,
       "num_comments": 164,
-      "author": "bckygldstn"
+      "author": "devonnull"
     },
     {
-      "objectID": "47774971",
-      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-      "title_zh": "Google Gemma 4在iPhone上原生运行，具有完全离线AI推理功能",
-      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-      "points": 277,
-      "num_comments": 168,
-      "author": "takumi123"
-    },
-    {
-      "objectID": "47780456",
-      "title": "Cal.com is going closed source",
-      "title_zh": "Cal.com正在进行闭源",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "points": 255,
-      "num_comments": 185,
-      "author": "Benjamin_Dobell"
-    },
-    {
-      "objectID": "47769089",
-      "title": "Cybersecurity looks like proof of work now",
-      "title_zh": "网络安全现在看起来像工作量证明",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "points": 324,
-      "num_comments": 114,
-      "author": "dbreunig"
-    },
-    {
-      "objectID": "47786791",
-      "title": "YouTube users get option to set their Shorts time limit to zero minutes",
-      "title_zh": "YouTube用户可以选择将短片时间限制设置为零分钟",
-      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
-      "points": 255,
-      "num_comments": 111,
-      "author": "pentagrama"
-    },
-    {
-      "objectID": "47785053",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "title_zh": "Gas Town是否从用户的LLM学分中“窃取”使用以改善自身？",
-      "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "points": 225,
-      "num_comments": 111,
-      "author": "rektomatic"
-    },
-    {
-      "objectID": "47776667",
-      "title": "Direct Win32 API, weird-shaped windows, and why they mostly disappeared",
-      "title_zh": "直接Win32 API ，奇形怪状的窗口，以及它们大多消失的原因",
-      "url": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
-      "points": 173,
-      "num_comments": 107,
-      "author": "birdculture"
-    },
-    {
-      "objectID": "47785397",
-      "title": "ChatGPT for Excel",
-      "title_zh": "Excel版ChatGPT",
-      "url": "https://chatgpt.com/apps/spreadsheets/",
-      "points": 143,
-      "num_comments": 106,
-      "author": "armcat"
-    },
-    {
-      "objectID": "47778920",
-      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-      "title_zh": "US v. Heppner (S.D.N.Y. 2026)没有律师-客户在人工智能聊天方面的特权[pdf]",
-      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-      "points": 107,
-      "num_comments": 84,
-      "author": "1vuio0pswjnm7"
-    },
-    {
-      "objectID": "47782256",
-      "title": "The Gemini app is now on Mac",
-      "title_zh": "Gemini应用程序现已在Mac上推出",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-      "points": 116,
-      "num_comments": 55,
-      "author": "thm"
-    },
-    {
-      "objectID": "47738081",
-      "title": "Fixing a monitor that goes black, off or blinks due to static electricity (2023)",
-      "title_zh": "修复因静电而变黑、关闭或闪烁的显示器（ 2023年）",
-      "url": "https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/",
-      "points": 123,
-      "num_comments": 67,
-      "author": "cyclopeanutopia"
-    },
-    {
-      "objectID": "47785948",
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling' (2017)",
-      "title_zh": "俄亥俄州监狱囚犯“制造电脑并将其藏在天花板上” （ 2017年）",
-      "url": "https://www.bbc.com/news/technology-39576394",
-      "points": 93,
-      "num_comments": 84,
-      "author": "harambae"
-    },
-    {
-      "objectID": "47781286",
-      "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
-      "title_zh": "CRISPR朝着沉默唐氏综合症的额外染色体迈出了重要一步",
-      "url": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
-      "points": 103,
-      "num_comments": 63,
-      "author": "amichail"
-    },
-    {
-      "objectID": "47780971",
-      "title": "Show HN: Libretto – Making AI browser automations deterministic",
-      "title_zh": "Show HN ： Libretto –使AI浏览器自动化具有确定性",
-      "url": "https://github.com/saffron-health/libretto",
-      "points": 90,
-      "num_comments": 32,
-      "author": "muchael"
-    },
-    {
-      "objectID": "47729507",
-      "title": "How Wake-On-LAN works (2020)",
-      "title_zh": "Wake-On-LAN的工作原理（ 2020年）",
-      "url": "https://blog.xaner.dev/post/wake-on-lan/",
-      "points": 84,
-      "num_comments": 33,
-      "author": "swq115"
-    },
-    {
-      "objectID": "47786164",
-      "title": "I made a terminal pager",
-      "title_zh": "我做了一个终端寻呼机",
-      "url": "https://theleo.zone/posts/pager/",
-      "points": 94,
-      "num_comments": 20,
-      "author": "speckx"
-    },
-    {
-      "objectID": "47784244",
-      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "title_zh": "PiCore - Tiny Core Linux的Raspberry Pi端口",
-      "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
-      "points": 93,
-      "num_comments": 12,
-      "author": "gregsadetsky"
-    },
-    {
-      "objectID": "47787854",
-      "title": "Arguing with Agents",
-      "title_zh": "与客服代表争论",
-      "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-      "points": 54,
-      "num_comments": 34,
-      "author": "asaaki"
-    },
-    {
-      "objectID": "47769245",
-      "title": "How can I keep from singing?",
-      "title_zh": "我怎么能不唱歌呢？",
-      "url": "https://blog.danieljanus.pl/singing/",
-      "points": 66,
-      "num_comments": 20,
-      "author": "nathell"
+      "objectID": "47791212",
+      "title": "Codex Hacked a Samsung TV",
+      "title_zh": "Codex黑客入侵三星电视",
+      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+      "points": 229,
+      "num_comments": 125,
+      "author": "campuscodi"
     },
     {
       "objectID": "47747770",
       "title": "The paper computer",
       "title_zh": "纸质电脑",
       "url": "https://jsomers.net/blog/the-paper-computer",
-      "points": 74,
-      "num_comments": 13,
+      "points": 273,
+      "num_comments": 86,
       "author": "jsomers"
     },
     {
-      "objectID": "47787877",
-      "title": "Stealth signals are bypassing Iran’s internet blackout",
-      "title_zh": "隐形信号正在绕过伊朗的互联网停电",
-      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
-      "points": 62,
-      "num_comments": 11,
-      "author": "WaitWaitWha"
+      "objectID": "47792538",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "title_zh": "Cloudflare的AI平台：专为代理设计的推理层",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "points": 256,
+      "num_comments": 60,
+      "author": "nikitoci"
+    },
+    {
+      "objectID": "47791236",
+      "title": "AI cybersecurity is not proof of work",
+      "title_zh": "人工智能网络安全不是工作量证明",
+      "url": "https://antirez.com/news/163",
+      "points": 213,
+      "num_comments": 82,
+      "author": "surprisetalk"
+    },
+    {
+      "objectID": "47796197",
+      "title": "Japan implements language proficiency requirements for certain visa applicants",
+      "title_zh": "日本对某些签证申请人实施语言能力要求",
+      "url": "https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/",
+      "points": 141,
+      "num_comments": 111,
+      "author": "mikhael"
+    },
+    {
+      "objectID": "47800738",
+      "title": "Everything we like is a psyop",
+      "title_zh": "我们喜欢的一切都是心灵",
+      "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "points": 176,
+      "num_comments": 102,
+      "author": "evo_9"
+    },
+    {
+      "objectID": "47750486",
+      "title": "Too much discussion of the XOR swap trick",
+      "title_zh": "关于XOR交换技巧的讨论过多",
+      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+      "points": 141,
+      "num_comments": 111,
+      "author": "CJefferson"
+    },
+    {
+      "objectID": "47800839",
+      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan",
+      "title_zh": "巴基斯坦儿童艾滋病疫情中心医院发现重复使用注射器",
+      "url": "https://www.bbc.com/news/articles/clyrd818gd2o",
+      "points": 143,
+      "num_comments": 92,
+      "author": "flykespice"
+    },
+    {
+      "objectID": "47788398",
+      "title": "North American English Dialects",
+      "title_zh": "北美英语方言",
+      "url": "https://aschmann.net/AmEng/",
+      "points": 145,
+      "num_comments": 87,
+      "author": "skogstokig"
+    },
+    {
+      "objectID": "47800166",
+      "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+      "title_zh": "加利福尼亚股份公司声称，新的未密封记录揭示了亚马逊的价格操纵策略",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+      "points": 173,
+      "num_comments": 36,
+      "author": "kmfrk"
+    },
+    {
+      "objectID": "47788473",
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "title_zh": "RedSun ： Win 11/10和服务器上的系统用户访问权限， 2026年4月更新",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun",
+      "points": 172,
+      "num_comments": 49,
+      "author": "airhangerf15"
+    },
+    {
+      "objectID": "47797665",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "title_zh": "Android CLI ：使用任何代理构建Android应用程序的速度提高3倍",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "points": 162,
+      "num_comments": 51,
+      "author": "ingve"
+    },
+    {
+      "objectID": "47792525",
+      "title": "Show HN: MacMind – A transformer neural network in HyperCard on a 1989 Macintosh",
+      "title_zh": "显示HN ： MacMind – 1989年Macintosh上的HyperCard变压器神经网络",
+      "url": "https://github.com/SeanFDZ/macmind",
+      "points": 130,
+      "num_comments": 35,
+      "author": "hammer32"
+    },
+    {
+      "objectID": "47792374",
+      "title": "Artifacts: Versioned storage that speaks Git",
+      "title_zh": "制品：使用Git的版本化存储",
+      "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "points": 177,
+      "num_comments": 20,
+      "author": "jgrahamc"
+    },
+    {
+      "objectID": "47800033",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "title_zh": "Guy利用胶带、旧凸轮和数控机床构建人工智能驱动的硬件黑客手臂",
+      "url": "https://github.com/gainsec/autoprober",
+      "points": 124,
+      "num_comments": 26,
+      "author": "scaredpelican"
+    },
+    {
+      "objectID": "47798345",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "title_zh": "Clojure官方纪录片页面，包含视频、图片和链接",
+      "url": "https://clojure.org/about/documentary",
+      "points": 131,
+      "num_comments": 36,
+      "author": "adityaathalye"
+    },
+    {
+      "objectID": "47794514",
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "title_zh": "启动HN ：坎帕拉（ YC W26 ） –将应用程序反向工程到API中",
+      "url": "https://www.zatanna.ai/kampala",
+      "points": 80,
+      "num_comments": 64,
+      "author": "alexblackwell_"
+    },
+    {
+      "objectID": "47763959",
+      "title": "PHP 8.6 Closure Optimizations",
+      "title_zh": "PHP 8.6闭包优化",
+      "url": "https://wiki.php.net/rfc/closure-optimizations",
+      "points": 114,
+      "num_comments": 38,
+      "author": "moebrowne"
+    },
+    {
+      "objectID": "47798176",
+      "title": "Playdate’s handheld changed how Duke University teaches game design",
+      "title_zh": "Playdate的手持设备改变了杜克大学教授游戏设计的方式",
+      "url": "https://news.play.date/news/duke-playdate-education/",
+      "points": 104,
+      "num_comments": 44,
+      "author": "Ivoah"
+    },
+    {
+      "objectID": "47759035",
+      "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
+      "title_zh": "显示HN ： CodeBurn -按任务分析Claude Code令牌使用情况",
+      "url": "https://github.com/AgentSeal/codeburn",
+      "points": 84,
+      "num_comments": 17,
+      "author": "agentseal"
     }
   ]
 }
