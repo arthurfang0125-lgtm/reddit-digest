@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-18T05:02:00.584193",
+  "generated_at": "2026-04-18T09:38:26.752117",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 119676,
+      "stars": 119791,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 97251,
+      "stars": 97862,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 88997,
+      "stars": 89045,
       "language": "Python",
       "url": "https://github.com/github/spec-kit"
     },
     {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 73913,
+      "stars": 73979,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 67147,
+      "stars": 67221,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 62364,
+      "stars": 62429,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 55961,
+      "stars": 55995,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55804,
+      "stars": 55807,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 54591,
+      "stars": 54631,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53819,
+      "stars": 53824,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     }
@@ -77,286 +77,286 @@
       {
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "points": 929,
-        "comments": 613,
+        "points": 1043,
+        "comments": 682,
         "author": "meetpateltech"
-      },
-      {
-        "title": "Isaac Asimov: The Last Question (1956)",
-        "url": "https://hex.ooo/library/last_question.html",
-        "points": 677,
-        "comments": 270,
-        "author": "ColinWright"
-      },
-      {
-        "title": "Ban the sale of precise geolocation",
-        "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-        "points": 652,
-        "comments": 170,
-        "author": "hn_acker"
       },
       {
         "title": "Measuring Claude 4.7's tokenizer costs",
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "points": 568,
-        "comments": 398,
+        "points": 608,
+        "comments": 433,
         "author": "aray07"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-        "points": 282,
-        "comments": 161,
+        "points": 332,
+        "comments": 194,
         "author": "cybermango"
+      },
+      {
+        "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+        "url": "https://github.com/smol-machines/smolvm",
+        "points": 332,
+        "comments": 102,
+        "author": "binsquare"
+      },
+      {
+        "title": "NASA Force",
+        "url": "https://nasaforce.gov/",
+        "points": 273,
+        "comments": 268,
+        "author": "LorenDB"
       }
     ],
     "top": [
       {
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "points": 929,
-        "comments": 613,
+        "points": 1043,
+        "comments": 682,
         "author": "meetpateltech"
-      },
-      {
-        "title": "Isaac Asimov: The Last Question (1956)",
-        "url": "https://hex.ooo/library/last_question.html",
-        "points": 677,
-        "comments": 270,
-        "author": "ColinWright"
-      },
-      {
-        "title": "Ban the sale of precise geolocation",
-        "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-        "points": 652,
-        "comments": 170,
-        "author": "hn_acker"
       },
       {
         "title": "Measuring Claude 4.7's tokenizer costs",
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "points": 568,
-        "comments": 398,
+        "points": 608,
+        "comments": 433,
         "author": "aray07"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-        "points": 282,
-        "comments": 161,
+        "points": 332,
+        "comments": 194,
         "author": "cybermango"
       },
       {
         "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
         "url": "https://github.com/smol-machines/smolvm",
-        "points": 279,
-        "comments": 91,
+        "points": 332,
+        "comments": 102,
         "author": "binsquare"
       },
       {
         "title": "NASA Force",
         "url": "https://nasaforce.gov/",
-        "points": 252,
-        "comments": 256,
+        "points": 273,
+        "comments": 268,
         "author": "LorenDB"
       },
       {
         "title": "Middle schooler finds coin from Troy in Berlin",
         "url": "https://www.thehistoryblog.com/archives/75848",
-        "points": 216,
-        "comments": 97,
+        "points": 231,
+        "comments": 108,
         "author": "speckx"
+      },
+      {
+        "title": "Spending 3 months coding by hand",
+        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "points": 206,
+        "comments": 209,
+        "author": "evakhoury"
       },
       {
         "title": "NIST gives up enriching most CVEs",
         "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-        "points": 187,
-        "comments": 41,
+        "points": 200,
+        "comments": 51,
         "author": "mooreds"
       },
       {
         "title": "Hyperscalers have already outspent most famous US megaprojects",
         "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-        "points": 160,
-        "comments": 129,
+        "points": 193,
+        "comments": 156,
         "author": "nowflux"
+      },
+      {
+        "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+        "url": "https://github.com/paniclock/paniclock/",
+        "points": 192,
+        "comments": 83,
+        "author": "seanieb"
       }
     ],
     "all": [
       {
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "points": 929,
-        "comments": 613,
+        "points": 1043,
+        "comments": 682,
         "author": "meetpateltech"
-      },
-      {
-        "title": "Isaac Asimov: The Last Question (1956)",
-        "url": "https://hex.ooo/library/last_question.html",
-        "points": 677,
-        "comments": 270,
-        "author": "ColinWright"
-      },
-      {
-        "title": "Ban the sale of precise geolocation",
-        "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-        "points": 652,
-        "comments": 170,
-        "author": "hn_acker"
       },
       {
         "title": "Measuring Claude 4.7's tokenizer costs",
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "points": 568,
-        "comments": 398,
+        "points": 608,
+        "comments": 433,
         "author": "aray07"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-        "points": 282,
-        "comments": 161,
+        "points": 332,
+        "comments": 194,
         "author": "cybermango"
       },
       {
         "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
         "url": "https://github.com/smol-machines/smolvm",
-        "points": 279,
-        "comments": 91,
+        "points": 332,
+        "comments": 102,
         "author": "binsquare"
       },
       {
         "title": "NASA Force",
         "url": "https://nasaforce.gov/",
-        "points": 252,
-        "comments": 256,
+        "points": 273,
+        "comments": 268,
         "author": "LorenDB"
       },
       {
         "title": "Middle schooler finds coin from Troy in Berlin",
         "url": "https://www.thehistoryblog.com/archives/75848",
-        "points": 216,
-        "comments": 97,
+        "points": 231,
+        "comments": 108,
         "author": "speckx"
+      },
+      {
+        "title": "Spending 3 months coding by hand",
+        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "points": 206,
+        "comments": 209,
+        "author": "evakhoury"
       },
       {
         "title": "NIST gives up enriching most CVEs",
         "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-        "points": 187,
-        "comments": 41,
+        "points": 200,
+        "comments": 51,
         "author": "mooreds"
       },
       {
         "title": "Hyperscalers have already outspent most famous US megaprojects",
         "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-        "points": 160,
-        "comments": 129,
+        "points": 193,
+        "comments": 156,
         "author": "nowflux"
       },
       {
         "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
         "url": "https://github.com/paniclock/paniclock/",
-        "points": 159,
-        "comments": 64,
+        "points": 192,
+        "comments": 83,
         "author": "seanieb"
-      },
-      {
-        "title": "Healthchecks.io now uses self-hosted object storage",
-        "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-        "points": 159,
-        "comments": 65,
-        "author": "zdw"
-      },
-      {
-        "title": "A simplified model of Fil-C",
-        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-        "points": 137,
-        "comments": 68,
-        "author": "aw1621107"
       },
       {
         "title": "\"cat readme.txt\" is not safe if you use iTerm2",
         "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-        "points": 134,
-        "comments": 74,
+        "points": 185,
+        "comments": 99,
         "author": "arkadiyt"
+      },
+      {
+        "title": "A simplified model of Fil-C",
+        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+        "points": 175,
+        "comments": 94,
+        "author": "aw1621107"
       },
       {
         "title": "Slop Cop",
         "url": "https://awnist.com/slop-cop",
-        "points": 124,
-        "comments": 79,
+        "points": 175,
+        "comments": 106,
         "author": "ericHosick"
       },
       {
-        "title": "Show HN: Stage – Putting humans back in control of code review",
-        "url": "https://stagereview.app/",
-        "points": 109,
-        "comments": 95,
-        "author": "cpan22"
-      },
-      {
-        "title": "I built a 3D printing business and ran it for 8 months",
-        "url": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
-        "points": 96,
-        "comments": 86,
-        "author": "wespiser_2018"
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "points": 152,
+        "comments": 27,
+        "author": "fouronnes3"
       },
       {
         "title": "Introducing: ShaderPad",
         "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
-        "points": 66,
-        "comments": 9,
+        "points": 92,
+        "comments": 18,
         "author": "evakhoury"
       },
       {
         "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
         "url": "https://www.nature.com/articles/d41586-026-01204-5",
-        "points": 61,
-        "comments": 54,
+        "points": 79,
+        "comments": 67,
         "author": "unsuspecting"
       },
       {
-        "title": "Towards trust in Emacs",
-        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-        "points": 59,
-        "comments": 4,
-        "author": "eshelyaron"
+        "title": "Category Theory Illustrated – Orders",
+        "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+        "points": 61,
+        "comments": 13,
+        "author": "boris_m"
+      },
+      {
+        "title": "Amiga Graphics",
+        "url": "https://amiga.lychesis.net/",
+        "points": 58,
+        "comments": 2,
+        "author": "sph"
       },
       {
         "title": "The Unix executable as a Smalltalk method (2025) [video]",
         "url": "https://www.youtube.com/watch?v=sZjPQ7vtLNA",
-        "points": 42,
-        "comments": 2,
-        "author": "surprisetalk"
-      },
-      {
-        "title": "Generating a color spectrum for an image",
-        "url": "https://amandahinton.com/blog/generating-a-color-spectrum-for-an-image",
-        "points": 31,
+        "points": 54,
         "comments": 4,
-        "author": "evakhoury"
+        "author": "surprisetalk"
       },
       {
         "title": "Casus Belli Engineering",
         "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
-        "points": 21,
-        "comments": 4,
+        "points": 38,
+        "comments": 12,
         "author": "b-man"
       },
       {
-        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-        "url": "https://victorpoughon.github.io/interval-calculator/",
-        "points": 14,
-        "comments": 1,
-        "author": "fouronnes3"
+        "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
+        "url": "https://runxiyu.org/comp/doubleslash/",
+        "points": 29,
+        "comments": 18,
+        "author": "pabs3"
       },
       {
-        "title": "Ben Lerner's Big Feelings",
-        "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-        "points": 6,
+        "title": "The simple geometry behind any road",
+        "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
+        "points": 29,
+        "comments": 4,
+        "author": "azhenley"
+      },
+      {
+        "title": "Michael Rabin Has Died",
+        "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+        "points": 29,
         "comments": 0,
-        "author": "prismatic"
+        "author": "tkhattra"
+      },
+      {
+        "title": "America Lost the Mandate of Heaven",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
+        "points": 6,
+        "comments": 2,
+        "author": "mefengl"
+      },
+      {
+        "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
+        "url": "https://github.com/yapstudios/sfsym",
+        "points": 3,
+        "comments": 0,
+        "author": "olliewagner"
       },
       {
         "title": "Adaptional (YC S25) is hiring AI engineers",
