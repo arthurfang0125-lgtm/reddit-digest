@@ -1,291 +1,362 @@
 {
-  "generated_at": "2026-04-19T09:37:51.628205",
-  "github_trending": [],
+  "generated_at": "2026-04-20T05:33:36.967493",
+  "github_trending": [
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 120634,
+      "language": "Python",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 102965,
+      "language": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": 89435,
+      "language": "Python",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "name": "karpathy/autoresearch",
+      "description": "AI agents running research on single-GPU nanochat training automatically",
+      "stars": 74623,
+      "language": "Python",
+      "url": "https://github.com/karpathy/autoresearch"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+      "stars": 67916,
+      "language": "Python",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 62801,
+      "language": "Python",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars": 56334,
+      "language": "Python",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "name": "FoundationAgents/OpenManus",
+      "description": "No fortress, purely open ground.  OpenManus is Coming.",
+      "stars": 55830,
+      "language": "Python",
+      "url": "https://github.com/FoundationAgents/OpenManus"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 55013,
+      "language": "Python",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "name": "Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "stars": 53855,
+      "language": "Python",
+      "url": "https://github.com/Zie619/n8n-workflows"
+    }
+  ],
   "hackernews": {
     "starred": [
       {
-        "title": "Migrating from DigitalOcean to Hetzner",
-        "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-        "points": 778,
-        "comments": 390,
-        "author": "yusufusta"
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "points": 645,
+        "comments": 366,
+        "author": "colesantiago"
       },
       {
-        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-        "url": "https://tokens.billchambers.me/leaderboard",
-        "points": 516,
-        "comments": 508,
-        "author": "anabranch"
+        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
+        "points": 560,
+        "comments": 147,
+        "author": "DamnInteresting"
       },
       {
-        "title": "Why Japan has such good railways",
-        "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-        "points": 406,
-        "comments": 370,
-        "author": "RickJWagner"
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "points": 319,
+        "comments": 120,
+        "author": "helloplanets"
       },
       {
-        "title": "State of Kdenlive",
-        "url": "https://kdenlive.org/news/2026/state-2026/",
-        "points": 399,
-        "comments": 122,
-        "author": "f_r_d"
-      },
-      {
-        "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-        "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-        "points": 333,
-        "comments": 91,
-        "author": "NelsonMinar"
-      }
-    ],
-    "top": [
-      {
-        "title": "Migrating from DigitalOcean to Hetzner",
-        "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-        "points": 778,
-        "comments": 390,
-        "author": "yusufusta"
-      },
-      {
-        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-        "url": "https://tokens.billchambers.me/leaderboard",
-        "points": 516,
-        "comments": 508,
-        "author": "anabranch"
-      },
-      {
-        "title": "Why Japan has such good railways",
-        "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-        "points": 406,
-        "comments": 370,
-        "author": "RickJWagner"
-      },
-      {
-        "title": "State of Kdenlive",
-        "url": "https://kdenlive.org/news/2026/state-2026/",
-        "points": 399,
-        "comments": 122,
-        "author": "f_r_d"
-      },
-      {
-        "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-        "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-        "points": 333,
-        "comments": 91,
-        "author": "NelsonMinar"
-      },
-      {
-        "title": "NIST scientists create 'any wavelength' lasers",
-        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-        "points": 307,
-        "comments": 134,
-        "author": "rbanffy"
-      },
-      {
-        "title": "Thoughts and feelings around Claude Design",
-        "url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "points": 304,
-        "comments": 197,
-        "author": "cdrnsf"
-      },
-      {
-        "title": "College instructor turns to typewriters to curb AI-written work",
-        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-        "points": 278,
-        "comments": 267,
-        "author": "gnabgib"
-      },
-      {
-        "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-        "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-        "points": 214,
-        "comments": 10,
-        "author": "Lwrless"
-      },
-      {
-        "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-        "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-        "points": 173,
-        "comments": 78,
-        "author": "sohkamyung"
-      }
-    ],
-    "all": [
-      {
-        "title": "Migrating from DigitalOcean to Hetzner",
-        "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-        "points": 778,
-        "comments": 390,
-        "author": "yusufusta"
-      },
-      {
-        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-        "url": "https://tokens.billchambers.me/leaderboard",
-        "points": 516,
-        "comments": 508,
-        "author": "anabranch"
-      },
-      {
-        "title": "Why Japan has such good railways",
-        "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-        "points": 406,
-        "comments": 370,
-        "author": "RickJWagner"
-      },
-      {
-        "title": "State of Kdenlive",
-        "url": "https://kdenlive.org/news/2026/state-2026/",
-        "points": 399,
-        "comments": 122,
-        "author": "f_r_d"
-      },
-      {
-        "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-        "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-        "points": 333,
-        "comments": 91,
-        "author": "NelsonMinar"
-      },
-      {
-        "title": "NIST scientists create 'any wavelength' lasers",
-        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-        "points": 307,
-        "comments": 134,
-        "author": "rbanffy"
-      },
-      {
-        "title": "Thoughts and feelings around Claude Design",
-        "url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "points": 304,
-        "comments": 197,
-        "author": "cdrnsf"
-      },
-      {
-        "title": "College instructor turns to typewriters to curb AI-written work",
-        "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-        "points": 278,
-        "comments": 267,
-        "author": "gnabgib"
-      },
-      {
-        "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-        "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-        "points": 214,
-        "comments": 10,
-        "author": "Lwrless"
-      },
-      {
-        "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-        "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-        "points": 173,
-        "comments": 78,
-        "author": "sohkamyung"
-      },
-      {
-        "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
-        "url": "https://github.com/drasimwagan/mdv",
-        "points": 114,
-        "comments": 43,
-        "author": "drasim"
-      },
-      {
-        "title": "Optimizing Ruby Path Methods",
-        "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-        "points": 100,
-        "comments": 35,
-        "author": "weaksauce"
-      },
-      {
-        "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
-        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-        "points": 97,
-        "comments": 69,
-        "author": "speckx"
-      },
-      {
-        "title": "Updating Gun Rocket through 10 years of Unity Engine",
-        "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-        "points": 81,
-        "comments": 32,
-        "author": "tyleo"
-      },
-      {
-        "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-        "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
-        "points": 80,
-        "comments": 28,
-        "author": "agambrahma"
-      },
-      {
-        "title": "What are skiplists good for?",
-        "url": "https://antithesis.com/blog/2026/skiptrees/",
-        "points": 72,
-        "comments": 15,
-        "author": "mfiguiere"
-      },
-      {
-        "title": "SI Units for Request Rate (2024)",
-        "url": "https://entropicthoughts.com/si-units-for-request-rate",
-        "points": 69,
-        "comments": 45,
-        "author": "fanf2"
-      },
-      {
-        "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
-        "url": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
-        "points": 54,
-        "comments": 4,
-        "author": "nobody9999"
-      },
-      {
-        "title": "The world in which IPv6 was a good design",
-        "url": "https://apenwarr.ca/log/20170810",
-        "points": 48,
-        "comments": 10,
-        "author": "signa11"
-      },
-      {
-        "title": "My first impressions on ROCm and Strix Halo",
-        "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
-        "points": 44,
-        "comments": 33,
-        "author": "random_"
-      },
-      {
-        "title": "Bypassing the kernel for 56ns cross-language IPC",
-        "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-        "points": 43,
-        "comments": 20,
-        "author": "riyaneel"
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "points": 262,
+        "comments": 152,
+        "author": "pretext"
       },
       {
         "title": "The RAM shortage could last years",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 35,
-        "comments": 32,
+        "points": 244,
+        "comments": 274,
         "author": "omer_k"
+      }
+    ],
+    "top": [
+      {
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "points": 645,
+        "comments": 366,
+        "author": "colesantiago"
+      },
+      {
+        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
+        "points": 560,
+        "comments": 147,
+        "author": "DamnInteresting"
+      },
+      {
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "points": 319,
+        "comments": 120,
+        "author": "helloplanets"
+      },
+      {
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "points": 262,
+        "comments": 152,
+        "author": "pretext"
+      },
+      {
+        "title": "The RAM shortage could last years",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "points": 244,
+        "comments": 274,
+        "author": "omer_k"
+      },
+      {
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "points": 180,
+        "comments": 88,
+        "author": "crescit_eundo"
+      },
+      {
+        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+        "points": 178,
+        "comments": 153,
+        "author": "Brajeshwar"
       },
       {
         "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
         "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-        "points": 27,
-        "comments": 8,
+        "points": 169,
+        "comments": 69,
         "author": "Eridanus2"
       },
       {
-        "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
-        "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
-        "points": 25,
-        "comments": 10,
-        "author": "bookofjoe"
+        "title": "A Brief History of Fish Sauce",
+        "url": "https://www.legalnomads.com/fish-sauce/",
+        "points": 140,
+        "comments": 58,
+        "author": "vinhnx"
       },
       {
-        "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On",
-        "url": "https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/",
+        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+        "url": "https://github.com/shivampkumar/trellis-mac",
+        "points": 126,
+        "comments": 21,
+        "author": "shivampkumar"
+      }
+    ],
+    "all": [
+      {
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "points": 645,
+        "comments": 366,
+        "author": "colesantiago"
+      },
+      {
+        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
+        "points": 560,
+        "comments": 147,
+        "author": "DamnInteresting"
+      },
+      {
+        "title": "The seven programming ur-languages (2022)",
+        "url": "https://madhadron.com/programming/seven_ur_languages.html",
+        "points": 319,
+        "comments": 120,
+        "author": "helloplanets"
+      },
+      {
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "points": 262,
+        "comments": 152,
+        "author": "pretext"
+      },
+      {
+        "title": "The RAM shortage could last years",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "points": 244,
+        "comments": 274,
+        "author": "omer_k"
+      },
+      {
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "points": 180,
+        "comments": 88,
+        "author": "crescit_eundo"
+      },
+      {
+        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+        "points": 178,
+        "comments": 153,
+        "author": "Brajeshwar"
+      },
+      {
+        "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+        "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+        "points": 169,
+        "comments": 69,
+        "author": "Eridanus2"
+      },
+      {
+        "title": "A Brief History of Fish Sauce",
+        "url": "https://www.legalnomads.com/fish-sauce/",
+        "points": 140,
+        "comments": 58,
+        "author": "vinhnx"
+      },
+      {
+        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+        "url": "https://github.com/shivampkumar/trellis-mac",
+        "points": 126,
+        "comments": 21,
+        "author": "shivampkumar"
+      },
+      {
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "points": 114,
+        "comments": 28,
+        "author": "walterbell"
+      },
+      {
+        "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+        "url": "https://www.vincentgregoire.com/faceoff/",
+        "points": 109,
+        "comments": 35,
+        "author": "vcf"
+      },
+      {
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "url": "https://mxmap.ch/",
+        "points": 106,
+        "comments": 33,
+        "author": "doener"
+      },
+      {
+        "title": "Scientific datasets are riddled with copy-paste errors",
+        "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+        "points": 66,
+        "comments": 9,
+        "author": "jruohonen"
+      },
+      {
+        "title": "Six Levels of Dark Mode (2024)",
+        "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+        "points": 64,
+        "comments": 29,
+        "author": "Akcium"
+      },
+      {
+        "title": "I wrote a CHIP-8 emulator in my own programming language",
+        "url": "https://github.com/navid-m/chip8emu",
+        "points": 61,
+        "comments": 14,
+        "author": "pizza_man"
+      },
+      {
+        "title": "Sudo for Windows",
+        "url": "https://github.com/microsoft/sudo",
+        "points": 52,
+        "comments": 24,
+        "author": "luispa"
+      },
+      {
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "points": 39,
+        "comments": 10,
+        "author": "twapi"
+      },
+      {
+        "title": "Show HN: A working reference implementation of context engineering",
+        "url": "https://github.com/outcomeops/context-engineering",
+        "points": 39,
+        "comments": 11,
+        "author": "linsys"
+      },
+      {
+        "title": "Swiss AI Initiative (2023)",
+        "url": "https://www.swiss-ai.org",
+        "points": 38,
+        "comments": 13,
+        "author": "doener"
+      },
+      {
+        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "points": 20,
+        "comments": 5,
+        "author": "juanpabloaj"
+      },
+      {
+        "title": "Interesting Map Geometry and Mathematics",
+        "url": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
         "points": 18,
+        "comments": 0,
+        "author": "Hooke"
+      },
+      {
+        "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
+        "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
+        "points": 14,
+        "comments": 1,
+        "author": "pseudolus"
+      },
+      {
+        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+        "url": "https://github.com/esutcu/planb-lpm",
+        "points": 8,
+        "comments": 1,
+        "author": "debugga"
+      },
+      {
+        "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
+        "url": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
+        "points": 8,
         "comments": 2,
-        "author": "PaulHoule"
+        "author": "skmurphy"
       },
       {
         "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
