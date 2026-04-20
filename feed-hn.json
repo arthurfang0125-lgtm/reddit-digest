@@ -1,277 +1,277 @@
 {
-  "generated_at": "2026-04-19T04:56:50.267473",
+  "generated_at": "2026-04-20T05:19:46.425916",
   "starred": [
     {
-      "objectID": "47806725",
-      "title": "Claude Design",
-      "title_zh": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "points": 1189,
-      "num_comments": 739,
-      "author": "meetpateltech"
+      "objectID": "47824463",
+      "title": "Vercel April 2026 security incident",
+      "title_zh": "Vercel 2026年4月安全事件",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "points": 638,
+      "num_comments": 357,
+      "author": "colesantiago"
     },
     {
-      "objectID": "47815774",
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "title_zh": "从DigitalOcean迁移到Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "points": 713,
-      "num_comments": 368,
-      "author": "yusufusta"
+      "objectID": "47793161",
+      "title": "Game devs explain the tricks involved with letting you pause a game",
+      "title_zh": "游戏开发人员解释了让您暂停游戏所涉及的技巧",
+      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+      "points": 419,
+      "num_comments": 228,
+      "author": "speckx"
     },
     {
-      "objectID": "47816960",
-      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "title_zh": "来自Opus 4.6和Opus 4.7的匿名请求令牌比较",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "points": 464,
-      "num_comments": 474,
-      "author": "anabranch"
+      "objectID": "47806096",
+      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+      "title_zh": "字节杂志存档，从1975年第1期开始",
+      "url": "https://archive.org/details/byte-magazine-1975-09",
+      "points": 556,
+      "num_comments": 145,
+      "author": "DamnInteresting"
     },
     {
-      "objectID": "47815395",
-      "title": "Why Japan has such good railways",
-      "title_zh": "为什么日本有这么好的铁路",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "points": 347,
-      "num_comments": 342,
-      "author": "RickJWagner"
+      "objectID": "47822414",
+      "title": "The RAM shortage could last years",
+      "title_zh": "内存短缺可能会持续数年",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "points": 242,
+      "num_comments": 267,
+      "author": "omer_k"
     },
     {
-      "objectID": "47818700",
-      "title": "Thoughts and feelings around Claude Design",
-      "title_zh": "围绕Claude Design的想法和感受",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "points": 264,
-      "num_comments": 173,
-      "author": "cdrnsf"
+      "objectID": "47824945",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "title_zh": "Notion泄露任何公共页面所有编辑的电子邮件地址",
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "points": 345,
+      "num_comments": 121,
+      "author": "Tiberium"
     },
     {
-      "objectID": "47815118",
-      "title": "State of Kdenlive",
-      "title_zh": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "points": 357,
-      "num_comments": 116,
-      "author": "f_r_d"
+      "objectID": "47823270",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "title_zh": "Claude Opus 4.6和4.7之间系统提示的变化",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "points": 260,
+      "num_comments": 151,
+      "author": "pretext"
     },
     {
-      "objectID": "47815127",
-      "title": "The quiet disappearance of the free-range childhood",
-      "title_zh": "自由奔放的童年悄然消逝",
-      "url": "https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/",
-      "points": 205,
-      "num_comments": 215,
-      "author": "sylvainkalache"
+      "objectID": "47822486",
+      "title": "The seven programming ur-languages (2022)",
+      "title_zh": "七种编程语言（ 2022年）",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "points": 316,
+      "num_comments": 120,
+      "author": "helloplanets"
     }
   ],
   "regular": [
     {
-      "objectID": "47782925",
-      "title": "Michael Rabin has died",
-      "title_zh": "迈克尔·拉宾去世",
-      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-      "points": 402,
-      "num_comments": 82,
-      "author": "tkhattra"
+      "objectID": "47824403",
+      "title": "The creative software industry has declared war on Adobe",
+      "title_zh": "创意软件行业向Adobe宣战",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "points": 203,
+      "num_comments": 156,
+      "author": "tambourine_man"
     },
     {
-      "objectID": "47818485",
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "title_zh": "大学教师转向打字机以遏制AI编写的工作",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "points": 197,
-      "num_comments": 184,
-      "author": "gnabgib"
+      "objectID": "47825160",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "title_zh": "Turtle WoW经典服务器在暴雪赢得禁令后宣布关闭",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "points": 174,
+      "num_comments": 149,
+      "author": "Brajeshwar"
     },
     {
-      "objectID": "47817132",
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "title_zh": "B-52轰炸机星际追踪器内部的机电角度计算机",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "points": 299,
+      "objectID": "47826100",
+      "title": "The Bromine Chokepoint",
+      "title_zh": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "points": 179,
       "num_comments": 86,
-      "author": "NelsonMinar"
+      "author": "crescit_eundo"
     },
     {
-      "objectID": "47819453",
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "title_zh": "NIST科学家创造“任意波长”激光器",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "points": 223,
-      "num_comments": 99,
-      "author": "rbanffy"
+      "objectID": "47822805",
+      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "title_zh": "SPEAKE (a) R ：将扬声器转向麦克风，以获取乐趣和利润[pdf] (2017)",
+      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+      "points": 169,
+      "num_comments": 69,
+      "author": "Eridanus2"
     },
     {
-      "objectID": "47812341",
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "title_zh": "显示HN ：我做了一个在不相交的间隔集上工作的计算器",
-      "url": "https://victorpoughon.github.io/interval-calculator/",
-      "points": 295,
-      "num_comments": 50,
-      "author": "fouronnes3"
+      "objectID": "47827215",
+      "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
+      "title_zh": "A. J. Ayer –《What I Saw When I Was Dead》（ 1988年）",
+      "url": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
+      "points": 76,
+      "num_comments": 101,
+      "author": "isomorphy"
     },
     {
-      "objectID": "47767398",
-      "title": "It's OK to compare floating-points for equality",
-      "title_zh": "比较浮点数是否相等是可以的",
-      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "points": 186,
-      "num_comments": 121,
-      "author": "coinfused"
+      "objectID": "47822734",
+      "title": "A Brief History of Fish Sauce",
+      "title_zh": "鱼露简史",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "points": 133,
+      "num_comments": 57,
+      "author": "vinhnx"
     },
     {
-      "objectID": "47813668",
-      "title": "Category Theory Illustrated – Orders",
-      "title_zh": "类别理论图解–订单",
-      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "points": 236,
-      "num_comments": 60,
-      "author": "boris_m"
+      "objectID": "47796759",
+      "title": "Show HN: Shader Lab, like Photoshop but for shaders",
+      "title_zh": "Show HN ：着色器实验室，类似于Photoshop ，但适用于着色器",
+      "url": "https://eng.basement.studio/tools/shader-lab",
+      "points": 141,
+      "num_comments": 41,
+      "author": "ragojose"
     },
     {
-      "objectID": "47820046",
-      "title": "Dad brains: How fatherhood rewires the male mind",
-      "title_zh": "爸爸的大脑：父亲如何重塑男性思维",
-      "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
-      "points": 116,
-      "num_comments": 80,
-      "author": "tchalla"
-    },
-    {
-      "objectID": "47778938",
-      "title": "Towards trust in Emacs",
-      "title_zh": "建立对Emacs的信任",
-      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "points": 182,
-      "num_comments": 28,
-      "author": "eshelyaron"
-    },
-    {
-      "objectID": "47784395",
-      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
-      "title_zh": "墨田水族馆发布2026年企鹅关系图，包括戏剧和分手",
-      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
-      "points": 186,
-      "num_comments": 7,
-      "author": "Lwrless"
-    },
-    {
-      "objectID": "47820531",
-      "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-      "title_zh": "美国宇航局关闭旅行者1号上的仪器以保持航天器运行",
-      "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
-      "points": 115,
-      "num_comments": 47,
-      "author": "sohkamyung"
-    },
-    {
-      "objectID": "47817581",
-      "title": "Graphs that explain the state of AI in 2026",
-      "title_zh": "解释2026年人工智能现状的图表",
-      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-      "points": 81,
+      "objectID": "47791771",
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "title_zh": "通过10年的Unity引擎更新Gun Rocket",
+      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "points": 110,
       "num_comments": 52,
-      "author": "bryanrasmussen"
+      "author": "tyleo"
     },
     {
-      "objectID": "47816629",
-      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
-      "title_zh": "显示HN: MDV –文档、仪表板和包含数据的幻灯片的Markdown超集",
-      "url": "https://github.com/drasimwagan/mdv",
-      "points": 102,
-      "num_comments": 36,
-      "author": "drasim"
+      "objectID": "47828420",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "title_zh": "2,100个瑞士市政当局显示哪个提供商处理其官方电子邮件",
+      "url": "https://mxmap.ch/",
+      "points": 104,
+      "num_comments": 33,
+      "author": "doener"
     },
     {
-      "objectID": "47788207",
-      "title": "The simple geometry behind any road",
-      "title_zh": "任何道路背后的简单几何形状",
-      "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
-      "points": 132,
-      "num_comments": 15,
-      "author": "azhenley"
+      "objectID": "47777715",
+      "title": "Nanopass Framework: Clean Compiler Creation Language",
+      "title_zh": "Nanopass框架：干净的编译器创建语言",
+      "url": "https://nanopass.org/",
+      "points": 126,
+      "num_comments": 28,
+      "author": "NordStreamYacht"
     },
     {
-      "objectID": "47779659",
-      "title": "Modern Common Lisp with FSet",
-      "title_zh": "带FSet的现代Common Lisp",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "points": 117,
-      "num_comments": 13,
-      "author": "larve"
+      "objectID": "47823460",
+      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "title_zh": "显示HN ：在浏览器中使用Gemma 4 E2B提示-Excalidraw演示（ 3.1GB ）",
+      "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
+      "points": 101,
+      "num_comments": 44,
+      "author": "teamchong"
     },
     {
-      "objectID": "47784250",
-      "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
-      "title_zh": "科学家发现“更清洁的蚂蚁” ，在亚利桑那州的沙漠中饲养巨型蚂蚁",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
-      "points": 88,
-      "num_comments": 32,
-      "author": "t-3"
+      "objectID": "47826104",
+      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+      "title_zh": "Show HN: Faceoff –以下NHL游戏的终端用户界面",
+      "url": "https://www.vincentgregoire.com/faceoff/",
+      "points": 109,
+      "num_comments": 35,
+      "author": "vcf"
     },
     {
-      "objectID": "47817349",
-      "title": "PgQue: Zero-Bloat Postgres Queue",
-      "title_zh": "PgQue ：零浮点Postgres队列",
-      "url": "https://github.com/NikolayS/pgque",
-      "points": 99,
-      "num_comments": 24,
-      "author": "gmcabrita"
-    },
-    {
-      "objectID": "47816625",
-      "title": "Fuzix OS",
-      "title_zh": "Fuzix OS",
-      "url": "https://www.fuzix.org/",
-      "points": 87,
-      "num_comments": 23,
-      "author": "DeathArrow"
-    },
-    {
-      "objectID": "47767397",
-      "title": "80386 Memory Pipeline",
-      "title_zh": "80386内存管道",
-      "url": "https://nand2mario.github.io/posts/2026/80386_memory_pipeline/",
-      "points": 97,
-      "num_comments": 13,
-      "author": "wicket"
-    },
-    {
-      "objectID": "47777633",
-      "title": "Show HN: SmallDocs – Markdown without the frustrations",
-      "title_zh": "显示HN ： SmallDocs -无挫折感的扣分",
-      "url": "https://news.ycombinator.com/item?id=47777633",
-      "points": 67,
-      "num_comments": 29,
-      "author": "FailMore"
-    },
-    {
-      "objectID": "47819369",
-      "title": "Optimizing Ruby Path Methods",
-      "title_zh": "优化Ruby路径方法",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "points": 67,
-      "num_comments": 25,
-      "author": "weaksauce"
+      "objectID": "47779372",
+      "title": "It's cool to care (2025)",
+      "title_zh": "关心很酷(2025)",
+      "url": "https://alexwlchan.net/2025/cool-to-care/",
+      "points": 98,
+      "num_comments": 38,
+      "author": "surprisetalk"
     },
     {
       "objectID": "47817639",
       "title": "4-bit floating point FP4",
       "title_zh": "4位浮点FP4",
       "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
-      "points": 44,
-      "num_comments": 29,
+      "points": 76,
+      "num_comments": 52,
       "author": "chmaynard"
     },
     {
-      "objectID": "47773969",
-      "title": "Understanding the FFT Algorithm (2013)",
-      "title_zh": "理解FFT算法（ 2013年）",
-      "url": "https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/",
-      "points": 70,
-      "num_comments": 7,
-      "author": "peter_d_sherman"
+      "objectID": "47828896",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+      "title_zh": "显示HN ：在Apple Silicon上本地运行TRELLIS.2图像到3D生成",
+      "url": "https://github.com/shivampkumar/trellis-mac",
+      "points": 122,
+      "num_comments": 21,
+      "author": "shivampkumar"
+    },
+    {
+      "objectID": "47827259",
+      "title": "Stop trying to engineer your way out of listening to people",
+      "title_zh": "不要试图通过倾听别人的声音来摆脱困境",
+      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "points": 110,
+      "num_comments": 25,
+      "author": "walterbell"
+    },
+    {
+      "objectID": "47781950",
+      "title": "Prove you are a robot: CAPTCHAs for agents",
+      "title_zh": "证明您是机器人：客服代表的验证码",
+      "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+      "points": 79,
+      "num_comments": 38,
+      "author": "lukasec"
+    },
+    {
+      "objectID": "47780743",
+      "title": "Mechanical Keyboard Sounds – A listening Museum",
+      "title_zh": "机械键盘音效–聆听博物馆",
+      "url": "https://sheets.works/data-viz/keyboard-sounds",
+      "points": 71,
+      "num_comments": 28,
+      "author": "akashwadhwani35"
+    },
+    {
+      "objectID": "47826502",
+      "title": "Six Levels of Dark Mode (2024)",
+      "title_zh": "深色模式的六个级别(2024)",
+      "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+      "points": 64,
+      "num_comments": 27,
+      "author": "Akcium"
+    },
+    {
+      "objectID": "47828444",
+      "title": "Swiss AI Initiative (2023)",
+      "title_zh": "瑞士人工智能倡议（ 2023年）",
+      "url": "https://www.swiss-ai.org",
+      "points": 36,
+      "num_comments": 13,
+      "author": "doener"
+    },
+    {
+      "objectID": "47826852",
+      "title": "I wrote a CHIP-8 emulator in my own programming language",
+      "title_zh": "我用自己的编程语言编写了一个CHIP-8模拟器",
+      "url": "https://github.com/navid-m/chip8emu",
+      "points": 59,
+      "num_comments": 14,
+      "author": "pizza_man"
+    },
+    {
+      "objectID": "47828853",
+      "title": "Sudo for Windows",
+      "title_zh": " Windows版本",
+      "url": "https://github.com/microsoft/sudo",
+      "points": 45,
+      "num_comments": 22,
+      "author": "luispa"
+    },
+    {
+      "objectID": "47826834",
+      "title": "Scientific datasets are riddled with copy-paste errors",
+      "title_zh": "科学数据集充斥着复制粘贴错误",
+      "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+      "points": 63,
+      "num_comments": 9,
+      "author": "jruohonen"
     }
   ]
 }
