@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-20T05:33:36.967493",
+  "generated_at": "2026-04-20T10:27:32.515098",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 120634,
+      "stars": 120804,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 102965,
+      "stars": 103923,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 89435,
+      "stars": 89498,
       "language": "Python",
       "url": "https://github.com/github/spec-kit"
     },
     {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 74623,
+      "stars": 74747,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 67916,
+      "stars": 68043,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 62801,
+      "stars": 62876,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 56334,
+      "stars": 56381,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55830,
+      "stars": 55836,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 55013,
+      "stars": 55064,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53855,
+      "stars": 53858,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     }
@@ -77,284 +77,291 @@
       {
         "title": "Vercel April 2026 security incident",
         "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 645,
-        "comments": 366,
+        "points": 751,
+        "comments": 432,
         "author": "colesantiago"
-      },
-      {
-        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-        "url": "https://archive.org/details/byte-magazine-1975-09",
-        "points": 560,
-        "comments": 147,
-        "author": "DamnInteresting"
-      },
-      {
-        "title": "The seven programming ur-languages (2022)",
-        "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 319,
-        "comments": 120,
-        "author": "helloplanets"
       },
       {
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 262,
-        "comments": 152,
+        "points": 326,
+        "comments": 183,
         "author": "pretext"
       },
       {
         "title": "The RAM shortage could last years",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 244,
-        "comments": 274,
+        "points": 307,
+        "comments": 378,
         "author": "omer_k"
+      },
+      {
+        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+        "points": 245,
+        "comments": 201,
+        "author": "Brajeshwar"
+      },
+      {
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "points": 234,
+        "comments": 99,
+        "author": "walterbell"
       }
     ],
     "top": [
       {
         "title": "Vercel April 2026 security incident",
         "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 645,
-        "comments": 366,
+        "points": 751,
+        "comments": 432,
         "author": "colesantiago"
-      },
-      {
-        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-        "url": "https://archive.org/details/byte-magazine-1975-09",
-        "points": 560,
-        "comments": 147,
-        "author": "DamnInteresting"
-      },
-      {
-        "title": "The seven programming ur-languages (2022)",
-        "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 319,
-        "comments": 120,
-        "author": "helloplanets"
       },
       {
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 262,
-        "comments": 152,
+        "points": 326,
+        "comments": 183,
         "author": "pretext"
       },
       {
         "title": "The RAM shortage could last years",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 244,
-        "comments": 274,
+        "points": 307,
+        "comments": 378,
         "author": "omer_k"
-      },
-      {
-        "title": "The Bromine Chokepoint",
-        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-        "points": 180,
-        "comments": 88,
-        "author": "crescit_eundo"
       },
       {
         "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
         "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-        "points": 178,
-        "comments": 153,
+        "points": 245,
+        "comments": 201,
         "author": "Brajeshwar"
       },
       {
-        "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-        "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-        "points": 169,
-        "comments": 69,
-        "author": "Eridanus2"
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "points": 234,
+        "comments": 99,
+        "author": "walterbell"
+      },
+      {
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "points": 199,
+        "comments": 104,
+        "author": "crescit_eundo"
+      },
+      {
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "url": "https://mxmap.ch/",
+        "points": 191,
+        "comments": 58,
+        "author": "doener"
       },
       {
         "title": "A Brief History of Fish Sauce",
         "url": "https://www.legalnomads.com/fish-sauce/",
-        "points": 140,
-        "comments": 58,
+        "points": 182,
+        "comments": 72,
         "author": "vinhnx"
       },
       {
         "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
         "url": "https://github.com/shivampkumar/trellis-mac",
-        "points": 126,
-        "comments": 21,
+        "points": 166,
+        "comments": 27,
         "author": "shivampkumar"
+      },
+      {
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "points": 116,
+        "comments": 43,
+        "author": "twapi"
       }
     ],
     "all": [
       {
         "title": "Vercel April 2026 security incident",
         "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 645,
-        "comments": 366,
+        "points": 751,
+        "comments": 432,
         "author": "colesantiago"
-      },
-      {
-        "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-        "url": "https://archive.org/details/byte-magazine-1975-09",
-        "points": 560,
-        "comments": 147,
-        "author": "DamnInteresting"
-      },
-      {
-        "title": "The seven programming ur-languages (2022)",
-        "url": "https://madhadron.com/programming/seven_ur_languages.html",
-        "points": 319,
-        "comments": 120,
-        "author": "helloplanets"
       },
       {
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 262,
-        "comments": 152,
+        "points": 326,
+        "comments": 183,
         "author": "pretext"
       },
       {
         "title": "The RAM shortage could last years",
         "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 244,
-        "comments": 274,
+        "points": 307,
+        "comments": 378,
         "author": "omer_k"
-      },
-      {
-        "title": "The Bromine Chokepoint",
-        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-        "points": 180,
-        "comments": 88,
-        "author": "crescit_eundo"
       },
       {
         "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
         "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-        "points": 178,
-        "comments": 153,
+        "points": 245,
+        "comments": 201,
         "author": "Brajeshwar"
       },
       {
-        "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-        "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-        "points": 169,
-        "comments": 69,
-        "author": "Eridanus2"
+        "title": "Stop trying to engineer your way out of listening to people",
+        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+        "points": 234,
+        "comments": 99,
+        "author": "walterbell"
+      },
+      {
+        "title": "The Bromine Chokepoint",
+        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+        "points": 199,
+        "comments": 104,
+        "author": "crescit_eundo"
+      },
+      {
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "url": "https://mxmap.ch/",
+        "points": 191,
+        "comments": 58,
+        "author": "doener"
       },
       {
         "title": "A Brief History of Fish Sauce",
         "url": "https://www.legalnomads.com/fish-sauce/",
-        "points": 140,
-        "comments": 58,
+        "points": 182,
+        "comments": 72,
         "author": "vinhnx"
       },
       {
         "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
         "url": "https://github.com/shivampkumar/trellis-mac",
-        "points": 126,
-        "comments": 21,
+        "points": 166,
+        "comments": 27,
         "author": "shivampkumar"
-      },
-      {
-        "title": "Stop trying to engineer your way out of listening to people",
-        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-        "points": 114,
-        "comments": 28,
-        "author": "walterbell"
-      },
-      {
-        "title": "Show HN: Faceoff – A terminal UI for following NHL games",
-        "url": "https://www.vincentgregoire.com/faceoff/",
-        "points": 109,
-        "comments": 35,
-        "author": "vcf"
-      },
-      {
-        "title": "2,100 Swiss municipalities showing which provider handles their official email",
-        "url": "https://mxmap.ch/",
-        "points": 106,
-        "comments": 33,
-        "author": "doener"
-      },
-      {
-        "title": "Scientific datasets are riddled with copy-paste errors",
-        "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
-        "points": 66,
-        "comments": 9,
-        "author": "jruohonen"
-      },
-      {
-        "title": "Six Levels of Dark Mode (2024)",
-        "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
-        "points": 64,
-        "comments": 29,
-        "author": "Akcium"
-      },
-      {
-        "title": "I wrote a CHIP-8 emulator in my own programming language",
-        "url": "https://github.com/navid-m/chip8emu",
-        "points": 61,
-        "comments": 14,
-        "author": "pizza_man"
-      },
-      {
-        "title": "Sudo for Windows",
-        "url": "https://github.com/microsoft/sudo",
-        "points": 52,
-        "comments": 24,
-        "author": "luispa"
       },
       {
         "title": "Claude Token Counter, now with model comparisons",
         "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "points": 39,
-        "comments": 10,
+        "points": 116,
+        "comments": 43,
         "author": "twapi"
       },
       {
-        "title": "Show HN: A working reference implementation of context engineering",
-        "url": "https://github.com/outcomeops/context-engineering",
-        "points": 39,
-        "comments": 11,
-        "author": "linsys"
+        "title": "Scientific datasets are riddled with copy-paste errors",
+        "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+        "points": 109,
+        "comments": 28,
+        "author": "jruohonen"
+      },
+      {
+        "title": "GitHub's Fake Star Economy",
+        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+        "points": 97,
+        "comments": 66,
+        "author": "Liriel"
+      },
+      {
+        "title": "Six Levels of Dark Mode (2024)",
+        "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+        "points": 93,
+        "comments": 41,
+        "author": "Akcium"
+      },
+      {
+        "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+        "points": 92,
+        "comments": 59,
+        "author": "feigewalnuss"
       },
       {
         "title": "Swiss AI Initiative (2023)",
         "url": "https://www.swiss-ai.org",
-        "points": 38,
-        "comments": 13,
+        "points": 74,
+        "comments": 25,
         "author": "doener"
       },
       {
-        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-        "points": 20,
-        "comments": 5,
-        "author": "juanpabloaj"
+        "title": "SDF Public Access Unix System",
+        "url": "https://sdf.org/?ssh",
+        "points": 74,
+        "comments": 28,
+        "author": "neehao"
       },
       {
-        "title": "Interesting Map Geometry and Mathematics",
-        "url": "https://www.markrjohnsongames.com/2026/04/11/ultima-ratio-regum-0-11-update-57-interesting-map-geometry-and-mathematics/",
-        "points": 18,
-        "comments": 0,
-        "author": "Hooke"
+        "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+        "url": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
+        "points": 67,
+        "comments": 35,
+        "author": "mikhael"
       },
       {
         "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
         "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
-        "points": 14,
-        "comments": 1,
+        "points": 60,
+        "comments": 15,
         "author": "pseudolus"
+      },
+      {
+        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+        "points": 55,
+        "comments": 7,
+        "author": "janandonly"
+      },
+      {
+        "title": "Stripe's Payment APIs: the first 10 years (2020)",
+        "url": "https://stripe.dev/blog/payment-api-design",
+        "points": 49,
+        "comments": 25,
+        "author": "tibbar"
+      },
+      {
+        "title": "IEA: Solar overtakes all energy sources in a major global first",
+        "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
+        "points": 43,
+        "comments": 21,
+        "author": "Klaster_1"
       },
       {
         "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
         "url": "https://github.com/esutcu/planb-lpm",
-        "points": 8,
-        "comments": 1,
+        "points": 37,
+        "comments": 15,
         "author": "debugga"
+      },
+      {
+        "title": "Two Motorola Transistors Became the Default NPNs",
+        "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
+        "points": 27,
+        "comments": 11,
+        "author": "ChuckMcM"
+      },
+      {
+        "title": "NSA is using Anthropic's Mythos despite blacklist",
+        "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+        "points": 15,
+        "comments": 2,
+        "author": "Palmik"
+      },
+      {
+        "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+        "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+        "points": 15,
+        "comments": 0,
+        "author": "breve"
       },
       {
         "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
         "url": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
-        "points": 8,
+        "points": 12,
         "comments": 2,
         "author": "skmurphy"
       },
