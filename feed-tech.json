@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-04-20T10:27:32.515098",
+  "generated_at": "2026-04-21T05:21:10.463998",
   "github_trending": [
     {
       "name": "anthropics/skills",
       "description": "Public repository for Agent Skills",
-      "stars": 120804,
+      "stars": 121211,
       "language": "Python",
       "url": "https://github.com/anthropics/skills"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 103923,
+      "stars": 106039,
       "language": "Python",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "name": "github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "stars": 89498,
+      "stars": 89703,
       "language": "Python",
       "url": "https://github.com/github/spec-kit"
     },
     {
       "name": "karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stars": 74747,
+      "stars": 75027,
       "language": "Python",
       "url": "https://github.com/karpathy/autoresearch"
     },
     {
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-      "stars": 68043,
+      "stars": 68415,
       "language": "Python",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
     },
     {
       "name": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "stars": 62876,
+      "stars": 63061,
       "language": "Python",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "stars": 56381,
+      "stars": 56532,
       "language": "Python",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "name": "FoundationAgents/OpenManus",
       "description": "No fortress, purely open ground.  OpenManus is Coming.",
-      "stars": 55836,
+      "stars": 55843,
       "language": "Python",
       "url": "https://github.com/FoundationAgents/OpenManus"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": 55064,
+      "stars": 55258,
       "language": "Python",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills"
     },
     {
       "name": "Zie619/n8n-workflows",
       "description": "all of the workflows of n8n i could find (also from the site itself)",
-      "stars": 53858,
+      "stars": 53873,
       "language": "Python",
       "url": "https://github.com/Zie619/n8n-workflows"
     }
@@ -75,295 +75,302 @@
   "hackernews": {
     "starred": [
       {
-        "title": "Vercel April 2026 security incident",
-        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 751,
-        "comments": 432,
-        "author": "colesantiago"
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "points": 1476,
+        "comments": 746,
+        "author": "schappim"
       },
       {
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 326,
-        "comments": 183,
-        "author": "pretext"
+        "title": "All phones sold in the EU to have replaceable batteries from 2027",
+        "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+        "points": 1095,
+        "comments": 911,
+        "author": "ramonga"
       },
       {
-        "title": "The RAM shortage could last years",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 307,
-        "comments": 378,
-        "author": "omer_k"
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "points": 579,
+        "comments": 308,
+        "author": "mfiguiere"
       },
       {
-        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-        "points": 245,
-        "comments": 201,
-        "author": "Brajeshwar"
+        "title": "Atlassian enables default data collection to train AI",
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+        "points": 538,
+        "comments": 124,
+        "author": "kevcampb"
       },
       {
-        "title": "Stop trying to engineer your way out of listening to people",
-        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-        "points": 234,
-        "comments": 99,
-        "author": "walterbell"
+        "title": "Sauna effect on heart rate",
+        "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+        "points": 403,
+        "comments": 211,
+        "author": "kyriakosel"
       }
     ],
     "top": [
       {
-        "title": "Vercel April 2026 security incident",
-        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 751,
-        "comments": 432,
-        "author": "colesantiago"
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "points": 1476,
+        "comments": 746,
+        "author": "schappim"
       },
       {
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 326,
-        "comments": 183,
-        "author": "pretext"
+        "title": "All phones sold in the EU to have replaceable batteries from 2027",
+        "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+        "points": 1095,
+        "comments": 911,
+        "author": "ramonga"
       },
       {
-        "title": "The RAM shortage could last years",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 307,
-        "comments": 378,
-        "author": "omer_k"
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "points": 579,
+        "comments": 308,
+        "author": "mfiguiere"
       },
       {
-        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-        "points": 245,
-        "comments": 201,
-        "author": "Brajeshwar"
+        "title": "Atlassian enables default data collection to train AI",
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+        "points": 538,
+        "comments": 124,
+        "author": "kevcampb"
       },
       {
-        "title": "Stop trying to engineer your way out of listening to people",
-        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-        "points": 234,
-        "comments": 99,
-        "author": "walterbell"
+        "title": "Sauna effect on heart rate",
+        "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+        "points": 403,
+        "comments": 211,
+        "author": "kyriakosel"
       },
       {
-        "title": "The Bromine Chokepoint",
-        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-        "points": 199,
-        "comments": 104,
-        "author": "crescit_eundo"
+        "title": "ggsql: A Grammar of Graphics for SQL",
+        "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+        "points": 383,
+        "comments": 76,
+        "author": "thomasp85"
       },
       {
-        "title": "2,100 Swiss municipalities showing which provider handles their official email",
-        "url": "https://mxmap.ch/",
-        "points": 191,
-        "comments": 58,
-        "author": "doener"
+        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+        "points": 330,
+        "comments": 320,
+        "author": "FiddlerClamp"
       },
       {
-        "title": "A Brief History of Fish Sauce",
-        "url": "https://www.legalnomads.com/fish-sauce/",
-        "points": 182,
-        "comments": 72,
-        "author": "vinhnx"
+        "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+        "points": 271,
+        "comments": 127,
+        "author": "Someone"
       },
       {
-        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-        "url": "https://github.com/shivampkumar/trellis-mac",
-        "points": 166,
-        "comments": 27,
-        "author": "shivampkumar"
+        "title": "F-35 is built for the wrong war",
+        "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+        "points": 241,
+        "comments": 491,
+        "author": "anjel"
       },
       {
-        "title": "Claude Token Counter, now with model comparisons",
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "points": 116,
-        "comments": 43,
-        "author": "twapi"
+        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+        "points": 230,
+        "comments": 111,
+        "author": "jlark77777"
       }
     ],
     "all": [
       {
-        "title": "Vercel April 2026 security incident",
-        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "points": 751,
-        "comments": 432,
-        "author": "colesantiago"
+        "title": "John Ternus to become Apple CEO",
+        "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+        "points": 1476,
+        "comments": 746,
+        "author": "schappim"
       },
       {
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "points": 326,
-        "comments": 183,
-        "author": "pretext"
+        "title": "All phones sold in the EU to have replaceable batteries from 2027",
+        "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+        "points": 1095,
+        "comments": 911,
+        "author": "ramonga"
       },
       {
-        "title": "The RAM shortage could last years",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-        "points": 307,
-        "comments": 378,
-        "author": "omer_k"
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "points": 579,
+        "comments": 308,
+        "author": "mfiguiere"
       },
       {
-        "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-        "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-        "points": 245,
-        "comments": 201,
-        "author": "Brajeshwar"
+        "title": "Atlassian enables default data collection to train AI",
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+        "points": 538,
+        "comments": 124,
+        "author": "kevcampb"
       },
       {
-        "title": "Stop trying to engineer your way out of listening to people",
-        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-        "points": 234,
-        "comments": 99,
-        "author": "walterbell"
+        "title": "Sauna effect on heart rate",
+        "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+        "points": 403,
+        "comments": 211,
+        "author": "kyriakosel"
       },
       {
-        "title": "The Bromine Chokepoint",
-        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-        "points": 199,
-        "comments": 104,
-        "author": "crescit_eundo"
+        "title": "ggsql: A Grammar of Graphics for SQL",
+        "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+        "points": 383,
+        "comments": 76,
+        "author": "thomasp85"
       },
       {
-        "title": "2,100 Swiss municipalities showing which provider handles their official email",
-        "url": "https://mxmap.ch/",
-        "points": 191,
-        "comments": 58,
-        "author": "doener"
+        "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+        "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+        "points": 330,
+        "comments": 320,
+        "author": "FiddlerClamp"
       },
       {
-        "title": "A Brief History of Fish Sauce",
-        "url": "https://www.legalnomads.com/fish-sauce/",
-        "points": 182,
-        "comments": 72,
-        "author": "vinhnx"
+        "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+        "points": 271,
+        "comments": 127,
+        "author": "Someone"
       },
       {
-        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-        "url": "https://github.com/shivampkumar/trellis-mac",
-        "points": 166,
-        "comments": 27,
-        "author": "shivampkumar"
+        "title": "F-35 is built for the wrong war",
+        "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+        "points": 241,
+        "comments": 491,
+        "author": "anjel"
       },
       {
-        "title": "Claude Token Counter, now with model comparisons",
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "points": 116,
-        "comments": 43,
-        "author": "twapi"
+        "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+        "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+        "points": 230,
+        "comments": 111,
+        "author": "jlark77777"
       },
       {
-        "title": "Scientific datasets are riddled with copy-paste errors",
-        "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
-        "points": 109,
-        "comments": 28,
-        "author": "jruohonen"
+        "title": "WebUSB Extension for Firefox",
+        "url": "https://github.com/ArcaneNibble/awawausb",
+        "points": 222,
+        "comments": 192,
+        "author": "tuananh"
       },
       {
-        "title": "GitHub's Fake Star Economy",
-        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-        "points": 97,
+        "title": "Kimi vendor verifier – verify accuracy of inference providers",
+        "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "points": 207,
+        "comments": 18,
+        "author": "Alifatisk"
+      },
+      {
+        "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+        "url": "https://mastodon.social/@jdm_/116429380667467307",
+        "points": 205,
+        "comments": 113,
+        "author": "luu"
+      },
+      {
+        "title": "Jujutsu megamerges for fun and profit",
+        "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+        "points": 189,
         "comments": 66,
-        "author": "Liriel"
+        "author": "icorbrey"
       },
       {
-        "title": "Six Levels of Dark Mode (2024)",
-        "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
-        "points": 93,
-        "comments": 41,
-        "author": "Akcium"
+        "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+        "url": "https://words.filippo.io/128-bits/",
+        "points": 182,
+        "comments": 69,
+        "author": "hasheddan"
       },
       {
-        "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-        "points": 92,
-        "comments": 59,
-        "author": "feigewalnuss"
+        "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+        "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+        "points": 180,
+        "comments": 81,
+        "author": "axbyte"
       },
       {
-        "title": "Swiss AI Initiative (2023)",
-        "url": "https://www.swiss-ai.org",
-        "points": 74,
-        "comments": 25,
-        "author": "doener"
+        "title": "Kefir C17/C23 Compiler",
+        "url": "https://sr.ht/~jprotopopov/kefir/",
+        "points": 137,
+        "comments": 8,
+        "author": "conductor"
       },
       {
-        "title": "SDF Public Access Unix System",
-        "url": "https://sdf.org/?ssh",
-        "points": 74,
-        "comments": 28,
-        "author": "neehao"
+        "title": "Modern Rendering Culling Techniques",
+        "url": "https://krupitskas.com/posts/modern_culling_techniques/",
+        "points": 119,
+        "comments": 23,
+        "author": "krupitskas"
       },
       {
-        "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
-        "url": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
-        "points": 67,
-        "comments": 35,
-        "author": "mikhael"
-      },
-      {
-        "title": "Monumental ship burial beneath ancient Norwegian mound predates the Viking Age",
-        "url": "https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html",
-        "points": 60,
-        "comments": 15,
-        "author": "pseudolus"
-      },
-      {
-        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-        "points": 55,
-        "comments": 7,
-        "author": "janandonly"
-      },
-      {
-        "title": "Stripe's Payment APIs: the first 10 years (2020)",
-        "url": "https://stripe.dev/blog/payment-api-design",
-        "points": 49,
-        "comments": 25,
-        "author": "tibbar"
-      },
-      {
-        "title": "IEA: Solar overtakes all energy sources in a major global first",
-        "url": "https://electrek.co/2026/04/19/iea-solar-overtakes-all-energy-sources-in-a-major-global-first/",
-        "points": 43,
+        "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+        "url": "https://prismml.com/news/ternary-bonsai",
+        "points": 108,
         "comments": 21,
-        "author": "Klaster_1"
+        "author": "nnx"
       },
       {
-        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
-        "url": "https://github.com/esutcu/planb-lpm",
-        "points": 37,
-        "comments": 15,
-        "author": "debugga"
+        "title": "How to make a fast dynamic language interpreter",
+        "url": "https://zef-lang.dev/implementation",
+        "points": 105,
+        "comments": 13,
+        "author": "pizlonator"
       },
       {
-        "title": "Two Motorola Transistors Became the Default NPNs",
-        "url": "https://www.allaboutcircuits.com/news/how-two-motorola-transistors-became-the-worlds-default-npns/",
-        "points": 27,
-        "comments": 11,
-        "author": "ChuckMcM"
+        "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+        "url": "https://github.com/gizmo64k/soulplayer-c64",
+        "points": 101,
+        "comments": 25,
+        "author": "adunk"
       },
       {
-        "title": "NSA is using Anthropic's Mythos despite blacklist",
-        "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
-        "points": 15,
+        "title": "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
+        "url": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
+        "points": 61,
+        "comments": 5,
+        "author": "caycep"
+      },
+      {
+        "title": "Air Is Full of DNA",
+        "url": "https://www.nature.com/articles/d41586-026-01099-2",
+        "points": 45,
+        "comments": 9,
+        "author": "howrude"
+      },
+      {
+        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+        "points": 42,
+        "comments": 6,
+        "author": "bishwasbh"
+      },
+      {
+        "title": "Year of the IPv6 Overlay Network",
+        "url": "https://www.defined.net/blog/year-of-the-ipv6-overlay-network/",
+        "points": 33,
+        "comments": 6,
+        "author": "stock_toaster"
+      },
+      {
+        "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+        "url": "https://mediator.ai/",
+        "points": 11,
         "comments": 2,
-        "author": "Palmik"
+        "author": "sanity"
       },
       {
-        "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
-        "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-        "points": 15,
-        "comments": 0,
-        "author": "breve"
-      },
-      {
-        "title": "A Common MVP Evolution: Service to System Integration to Product (2017)",
-        "url": "https://www.skmurphy.com/blog/2017/08/07/a-common-evolution-service-to-system-integration-to-product/",
-        "points": 12,
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "points": 9,
         "comments": 2,
-        "author": "skmurphy"
+        "author": "jmsflknr"
       },
       {
         "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
