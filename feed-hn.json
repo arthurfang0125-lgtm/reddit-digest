@@ -1,277 +1,277 @@
 {
-  "generated_at": "2026-04-20T05:19:46.425916",
+  "generated_at": "2026-04-21T04:54:03.763833",
   "starred": [
     {
-      "objectID": "47824463",
-      "title": "Vercel April 2026 security incident",
-      "title_zh": "Vercel 2026年4月安全事件",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "points": 638,
-      "num_comments": 357,
-      "author": "colesantiago"
+      "objectID": "47840219",
+      "title": "John Ternus to become Apple CEO",
+      "title_zh": "John Ternus将出任苹果首席执行官",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "points": 1443,
+      "num_comments": 729,
+      "author": "schappim"
     },
     {
-      "objectID": "47793161",
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "title_zh": "游戏开发人员解释了让您暂停游戏所涉及的技巧",
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "points": 419,
-      "num_comments": 228,
+      "objectID": "47834195",
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "title_zh": "从2027年起，所有在欧盟销售的手机都将配备可更换电池",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "points": 1077,
+      "num_comments": 891,
+      "author": "ramonga"
+    },
+    {
+      "objectID": "47831621",
+      "title": "GitHub's fake star economy",
+      "title_zh": "GitHub的假星经济",
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "points": 755,
+      "num_comments": 356,
+      "author": "Liriel"
+    },
+    {
+      "objectID": "47835735",
+      "title": "Kimi K2.6: Advancing open-source coding",
+      "title_zh": "Kimi K2.6 ：推进开源编码",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "points": 617,
+      "num_comments": 327,
+      "author": "meetpateltech"
+    },
+    {
+      "objectID": "47834565",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "title_zh": "Qwen3.6-Max-Preview ：更智能、更清晰、仍在不断发展",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "points": 576,
+      "num_comments": 303,
+      "author": "mfiguiere"
+    },
+    {
+      "objectID": "47839835",
+      "title": "F-35 is built for the wrong war",
+      "title_zh": "F-35是为错误的战争而建造的",
+      "url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
+      "points": 232,
+      "num_comments": 477,
+      "author": "anjel"
+    },
+    {
+      "objectID": "47839951",
+      "title": "AI Resistance: some recent anti-AI stuff that’s worth discussing",
+      "title_zh": "AI阻力：最近一些反AI的东西值得讨论",
+      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
+      "points": 337,
+      "num_comments": 331,
       "author": "speckx"
-    },
-    {
-      "objectID": "47806096",
-      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-      "title_zh": "字节杂志存档，从1975年第1期开始",
-      "url": "https://archive.org/details/byte-magazine-1975-09",
-      "points": 556,
-      "num_comments": 145,
-      "author": "DamnInteresting"
-    },
-    {
-      "objectID": "47822414",
-      "title": "The RAM shortage could last years",
-      "title_zh": "内存短缺可能会持续数年",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "points": 242,
-      "num_comments": 267,
-      "author": "omer_k"
-    },
-    {
-      "objectID": "47824945",
-      "title": "Notion leaks email addresses of all editors of any public page",
-      "title_zh": "Notion泄露任何公共页面所有编辑的电子邮件地址",
-      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-      "points": 345,
-      "num_comments": 121,
-      "author": "Tiberium"
-    },
-    {
-      "objectID": "47823270",
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "title_zh": "Claude Opus 4.6和4.7之间系统提示的变化",
-      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-      "points": 260,
-      "num_comments": 151,
-      "author": "pretext"
-    },
-    {
-      "objectID": "47822486",
-      "title": "The seven programming ur-languages (2022)",
-      "title_zh": "七种编程语言（ 2022年）",
-      "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "points": 316,
-      "num_comments": 120,
-      "author": "helloplanets"
     }
   ],
   "regular": [
     {
-      "objectID": "47824403",
-      "title": "The creative software industry has declared war on Adobe",
-      "title_zh": "创意软件行业向Adobe宣战",
-      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "objectID": "47835928",
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "title_zh": "Deezer表示，每天上传到其平台的歌曲中有44%是人工智能生成的",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "points": 326,
+      "num_comments": 315,
+      "author": "FiddlerClamp"
+    },
+    {
+      "objectID": "47833247",
+      "title": "Atlassian enables default data collection to train AI",
+      "title_zh": "Atlassian启用默认数据收集来训练AI",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "points": 532,
+      "num_comments": 123,
+      "author": "kevcampb"
+    },
+    {
+      "objectID": "47831437",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "title_zh": "OpenClaw没有骗我，我记得MS-DOS",
+      "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "points": 279,
+      "num_comments": 308,
+      "author": "feigewalnuss"
+    },
+    {
+      "objectID": "47834184",
+      "title": "Sauna effect on heart rate",
+      "title_zh": "桑拿对心率的影响",
+      "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
+      "points": 398,
+      "num_comments": 210,
+      "author": "kyriakosel"
+    },
+    {
+      "objectID": "47835775",
+      "title": "Not buying another Kindle",
+      "title_zh": "不购买其他Kindle",
+      "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
+      "points": 289,
+      "num_comments": 230,
+      "author": "mikhael"
+    },
+    {
+      "objectID": "47832969",
+      "title": "WebUSB Extension for Firefox",
+      "title_zh": "Firefox的WebUSB扩展",
+      "url": "https://github.com/ArcaneNibble/awawausb",
+      "points": 219,
+      "num_comments": 191,
+      "author": "tuananh"
+    },
+    {
+      "objectID": "47833558",
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "title_zh": "ggsql ： SQL图形语法",
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "points": 381,
+      "num_comments": 76,
+      "author": "thomasp85"
+    },
+    {
+      "objectID": "47836730",
+      "title": "We accepted surveillance as default",
+      "title_zh": "我们接受默认监控",
+      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "points": 296,
+      "num_comments": 127,
+      "author": "speckx"
+    },
+    {
+      "objectID": "47832248",
+      "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
+      "title_zh": "日本宫古市M 7.4级地震– 100公里ENE",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "points": 269,
+      "num_comments": 125,
+      "author": "Someone"
+    },
+    {
+      "objectID": "47840980",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+      "title_zh": "OpenAI广告合作伙伴现在根据“提示相关性”销售ChatGPT广告展示位置",
+      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "points": 226,
+      "num_comments": 106,
+      "author": "jlark77777"
+    },
+    {
+      "objectID": "47826839",
+      "title": "10 years ago, someone wrote a test for Servo that included an expiry in 2026",
+      "title_zh": "10年前，有人为Servo编写了一个测试，其中包括2026年到期",
+      "url": "https://mastodon.social/@jdm_/116429380667467307",
       "points": 203,
-      "num_comments": 156,
-      "author": "tambourine_man"
+      "num_comments": 109,
+      "author": "luu"
     },
     {
-      "objectID": "47825160",
-      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
-      "title_zh": "Turtle WoW经典服务器在暴雪赢得禁令后宣布关闭",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "objectID": "47797382",
+      "title": "I Made the \"Next-Level\" Camera and I love it",
+      "title_zh": "我制作了“下一级”相机，我喜欢它",
+      "url": "https://thelibre.news/i-made-the-next-level-camera-and-i-love-it/",
+      "points": 240,
+      "num_comments": 68,
+      "author": "ndr"
+    },
+    {
+      "objectID": "47819410",
+      "title": "SDF Public Access Unix System",
+      "title_zh": "SDF公共访问Unix系统",
+      "url": "https://sdf.org/?ssh",
+      "points": 168,
+      "num_comments": 85,
+      "author": "neehao"
+    },
+    {
+      "objectID": "47831742",
+      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
+      "title_zh": "布鲁塞尔推出了一款年龄检查应用程序。黑客花了2分钟才破解",
+      "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
+      "points": 175,
+      "num_comments": 77,
+      "author": "axbyte"
+    },
+    {
+      "objectID": "47790041",
+      "title": "I learned Unity the wrong way",
+      "title_zh": "我以错误的方式学习Unity",
+      "url": "https://darkounity.com/blog/how-i-learned-unity-the-wrong-way",
+      "points": 148,
+      "num_comments": 94,
+      "author": "lelanthran"
+    },
+    {
+      "objectID": "47841129",
+      "title": "Jujutsu megamerges for fun and profit",
+      "title_zh": "Jujutsu megamerges ，追求乐趣和利润",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "points": 184,
+      "num_comments": 63,
+      "author": "icorbrey"
+    },
+    {
+      "objectID": "47836784",
+      "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
+      "title_zh": "量子计算机不是128位对称密钥的威胁",
+      "url": "https://words.filippo.io/128-bits/",
       "points": 174,
-      "num_comments": 149,
-      "author": "Brajeshwar"
-    },
-    {
-      "objectID": "47826100",
-      "title": "The Bromine Chokepoint",
-      "title_zh": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "points": 179,
-      "num_comments": 86,
-      "author": "crescit_eundo"
-    },
-    {
-      "objectID": "47822805",
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "title_zh": "SPEAKE (a) R ：将扬声器转向麦克风，以获取乐趣和利润[pdf] (2017)",
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "points": 169,
       "num_comments": 69,
-      "author": "Eridanus2"
+      "author": "hasheddan"
     },
     {
-      "objectID": "47827215",
-      "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
-      "title_zh": "A. J. Ayer –《What I Saw When I Was Dead》（ 1988年）",
-      "url": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
-      "points": 76,
-      "num_comments": 101,
-      "author": "isomorphy"
-    },
-    {
-      "objectID": "47822734",
-      "title": "A Brief History of Fish Sauce",
-      "title_zh": "鱼露简史",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "points": 133,
-      "num_comments": 57,
-      "author": "vinhnx"
-    },
-    {
-      "objectID": "47796759",
-      "title": "Show HN: Shader Lab, like Photoshop but for shaders",
-      "title_zh": "Show HN ：着色器实验室，类似于Photoshop ，但适用于着色器",
-      "url": "https://eng.basement.studio/tools/shader-lab",
-      "points": 141,
-      "num_comments": 41,
-      "author": "ragojose"
-    },
-    {
-      "objectID": "47791771",
-      "title": "Updating Gun Rocket through 10 years of Unity Engine",
-      "title_zh": "通过10年的Unity引擎更新Gun Rocket",
-      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
-      "points": 110,
-      "num_comments": 52,
-      "author": "tyleo"
-    },
-    {
-      "objectID": "47828420",
-      "title": "2,100 Swiss municipalities showing which provider handles their official email",
-      "title_zh": "2,100个瑞士市政当局显示哪个提供商处理其官方电子邮件",
-      "url": "https://mxmap.ch/",
-      "points": 104,
-      "num_comments": 33,
-      "author": "doener"
-    },
-    {
-      "objectID": "47777715",
-      "title": "Nanopass Framework: Clean Compiler Creation Language",
-      "title_zh": "Nanopass框架：干净的编译器创建语言",
-      "url": "https://nanopass.org/",
-      "points": 126,
-      "num_comments": 28,
-      "author": "NordStreamYacht"
-    },
-    {
-      "objectID": "47823460",
-      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
-      "title_zh": "显示HN ：在浏览器中使用Gemma 4 E2B提示-Excalidraw演示（ 3.1GB ）",
-      "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
-      "points": 101,
-      "num_comments": 44,
-      "author": "teamchong"
-    },
-    {
-      "objectID": "47826104",
-      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
-      "title_zh": "Show HN: Faceoff –以下NHL游戏的终端用户界面",
-      "url": "https://www.vincentgregoire.com/faceoff/",
-      "points": 109,
-      "num_comments": 35,
-      "author": "vcf"
-    },
-    {
-      "objectID": "47779372",
-      "title": "It's cool to care (2025)",
-      "title_zh": "关心很酷(2025)",
-      "url": "https://alexwlchan.net/2025/cool-to-care/",
-      "points": 98,
-      "num_comments": 38,
-      "author": "surprisetalk"
-    },
-    {
-      "objectID": "47817639",
-      "title": "4-bit floating point FP4",
-      "title_zh": "4位浮点FP4",
-      "url": "https://www.johndcook.com/blog/2026/04/17/fp4/",
-      "points": 76,
-      "num_comments": 52,
-      "author": "chmaynard"
-    },
-    {
-      "objectID": "47828896",
-      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-      "title_zh": "显示HN ：在Apple Silicon上本地运行TRELLIS.2图像到3D生成",
-      "url": "https://github.com/shivampkumar/trellis-mac",
+      "objectID": "47842021",
+      "title": "Even 'uncensored' models can't say what they want",
+      "title_zh": "即使是“未经审查”的模特也不能说出他们想要什么",
+      "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
       "points": 122,
-      "num_comments": 21,
-      "author": "shivampkumar"
+      "num_comments": 93,
+      "author": "llmmadness"
     },
     {
-      "objectID": "47827259",
-      "title": "Stop trying to engineer your way out of listening to people",
-      "title_zh": "不要试图通过倾听别人的声音来摆脱困境",
-      "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "points": 110,
-      "num_comments": 25,
-      "author": "walterbell"
+      "objectID": "47832366",
+      "title": "Figma's woes compound with Claude Design",
+      "title_zh": "与Claude Design一起探索Figma的困境",
+      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+      "points": 102,
+      "num_comments": 86,
+      "author": "martinald"
     },
     {
-      "objectID": "47781950",
-      "title": "Prove you are a robot: CAPTCHAs for agents",
-      "title_zh": "证明您是机器人：客服代表的验证码",
-      "url": "https://browser-use.com/posts/prove-you-are-a-robot",
-      "points": 79,
-      "num_comments": 38,
-      "author": "lukasec"
+      "objectID": "47838703",
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "title_zh": "Kimi供应商验证者–验证推理提供者的准确性",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "points": 203,
+      "num_comments": 17,
+      "author": "Alifatisk"
     },
     {
-      "objectID": "47780743",
-      "title": "Mechanical Keyboard Sounds – A listening Museum",
-      "title_zh": "机械键盘音效–聆听博物馆",
-      "url": "https://sheets.works/data-viz/keyboard-sounds",
-      "points": 71,
+      "objectID": "47810101",
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "title_zh": "多达800万只蜜蜂生活在这座墓地下的地下网络中",
+      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+      "points": 167,
       "num_comments": 28,
-      "author": "akashwadhwani35"
+      "author": "janandonly"
     },
     {
-      "objectID": "47826502",
-      "title": "Six Levels of Dark Mode (2024)",
-      "title_zh": "深色模式的六个级别(2024)",
-      "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
-      "points": 64,
-      "num_comments": 27,
-      "author": "Akcium"
+      "objectID": "47810531",
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "title_zh": "聚焦微波使3D打印机能够将电路融合到几乎任何东西上",
+      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+      "points": 154,
+      "num_comments": 24,
+      "author": "breve"
     },
     {
-      "objectID": "47828444",
-      "title": "Swiss AI Initiative (2023)",
-      "title_zh": "瑞士人工智能倡议（ 2023年）",
-      "url": "https://www.swiss-ai.org",
-      "points": 36,
-      "num_comments": 13,
-      "author": "doener"
-    },
-    {
-      "objectID": "47826852",
-      "title": "I wrote a CHIP-8 emulator in my own programming language",
-      "title_zh": "我用自己的编程语言编写了一个CHIP-8模拟器",
-      "url": "https://github.com/navid-m/chip8emu",
-      "points": 59,
-      "num_comments": 14,
-      "author": "pizza_man"
-    },
-    {
-      "objectID": "47828853",
-      "title": "Sudo for Windows",
-      "title_zh": " Windows版本",
-      "url": "https://github.com/microsoft/sudo",
-      "points": 45,
-      "num_comments": 22,
-      "author": "luispa"
-    },
-    {
-      "objectID": "47826834",
-      "title": "Scientific datasets are riddled with copy-paste errors",
-      "title_zh": "科学数据集充斥着复制粘贴错误",
-      "url": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
-      "points": 63,
-      "num_comments": 9,
-      "author": "jruohonen"
+      "objectID": "47812749",
+      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "title_zh": "三元盆景： 1.58比特的顶级智能",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "points": 101,
+      "num_comments": 21,
+      "author": "nnx"
     }
   ]
 }
